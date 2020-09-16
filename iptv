@@ -1,377 +1,2127 @@
-#EXTM3U
-#EXTINF:-1,CA | CBC Calgary
-http://fanproj.taajj-iptv.org:7899/123/123/89481
-#EXTINF:-1,CA | Ottawa
-http://fanproj.taajj-iptv.org:7899/123/123/89482
-#EXTINF:-1,CA | CBC HALIFAX HD
-http://fanproj.taajj-iptv.org:7899/123/123/89483
-#EXTINF:-1,CA | CBC OTTAWA
-http://fanproj.taajj-iptv.org:7899/123/123/89484
-#EXTINF:-1,CA | CBC NEWS HD
-http://fanproj.taajj-iptv.org:7899/123/123/89485
-#EXTINF:-1,CA | CBC MONTREAL HD
-http://fanproj.taajj-iptv.org:7899/123/123/89486
-#EXTINF:-1,CA | CBC VANCOUVER
-http://fanproj.taajj-iptv.org:7899/123/123/89487
-#EXTINF:-1,CA | CBC TORONTO
-http://fanproj.taajj-iptv.org:7899/123/123/89488
-#EXTINF:-1,CA | CBC CALGARY HD
-http://fanproj.taajj-iptv.org:7899/123/123/89489
-#EXTINF:-1,CA | ADDIK TV
-http://fanproj.taajj-iptv.org:7899/123/123/89490
-#EXTINF:-1,CA | Cartoon NetWork HD
-http://fanproj.taajj-iptv.org:7899/123/123/89491
-#EXTINF:-1,CA | CANAL SAVOIR
-http://fanproj.taajj-iptv.org:7899/123/123/89492
-#EXTINF:-1,CA | CANAL D
-http://fanproj.taajj-iptv.org:7899/123/123/89493
-#EXTINF:-1,CA | Discovery CANADA
-http://fanproj.taajj-iptv.org:7899/123/123/89494
-#EXTINF:-1,CA | Z TELE
-http://fanproj.taajj-iptv.org:7899/123/123/89495
-#EXTINF:-1,CA | BNN BLOOMBERG
-http://fanproj.taajj-iptv.org:7899/123/123/89496
-#EXTINF:-1,CA | BBC CANADA
-http://fanproj.taajj-iptv.org:7899/123/123/89497
-#EXTINF:-1,CA | BBC EARTH HD
-http://fanproj.taajj-iptv.org:7899/123/123/89498
-#EXTINF:-1,CA | BBC WORLD NEWS
-http://fanproj.taajj-iptv.org:7899/123/123/89499
-#EXTINF:-1,CA | YOOPA
-http://fanproj.taajj-iptv.org:7899/123/123/89500
-#EXTINF:-1,CA | ANIMAL PLANET HD
-http://fanproj.taajj-iptv.org:7899/123/123/89501
-#EXTINF:-1,CA | AMC HD
-http://fanproj.taajj-iptv.org:7899/123/123/89502
-#EXTINF:-1,CA | ABC SPARK HD
-http://fanproj.taajj-iptv.org:7899/123/123/89503
-#EXTINF:-1,CA | ABC 10 HD
-http://fanproj.taajj-iptv.org:7899/123/123/89504
-#EXTINF:-1,CA | ABC (West) HD
-http://fanproj.taajj-iptv.org:7899/123/123/89505
-#EXTINF:-1,CA | ABC (East) HD
-http://fanproj.taajj-iptv.org:7899/123/123/89506
-#EXTINF:-1,CA | TV Rogers
-http://fanproj.taajj-iptv.org:7899/123/123/89507
-#EXTINF:-1,CA | MIRACLE Channel CANADA
-http://fanproj.taajj-iptv.org:7899/123/123/89508
-#EXTINF:-1,CA | CPAC HD
-http://fanproj.taajj-iptv.org:7899/123/123/89509
-#EXTINF:-1,CA | VIE
-http://fanproj.taajj-iptv.org:7899/123/123/89510
-#EXTINF:-1,CA | W
-http://fanproj.taajj-iptv.org:7899/123/123/89511
-#EXTINF:-1,CA | SportsNet World
-http://fanproj.taajj-iptv.org:7899/123/123/89512
-#EXTINF:-1,CA | TSNET West
-http://fanproj.taajj-iptv.org:7899/123/123/89513
-#EXTINF:-1,CA | SportsNet Ontario
-http://fanproj.taajj-iptv.org:7899/123/123/89514
-#EXTINF:-1,CA | TSNET One
-http://fanproj.taajj-iptv.org:7899/123/123/89515
-#EXTINF:-1,CA | SportsNet Eeast
-http://fanproj.taajj-iptv.org:7899/123/123/89516
-#EXTINF:-1,CA | TSNET 360
-http://fanproj.taajj-iptv.org:7899/123/123/89517
-#EXTINF:-1,CA | PBS HD
-http://fanproj.taajj-iptv.org:7899/123/123/89518
-#EXTINF:-1,CA | YES TV HD
-http://fanproj.taajj-iptv.org:7899/123/123/89519
-#EXTINF:-1,CA | MSNBC HD
-http://fanproj.taajj-iptv.org:7899/123/123/89520
-#EXTINF:-1,CA | HLN HD
-http://fanproj.taajj-iptv.org:7899/123/123/89521
-#EXTINF:-1,CA | HGTV
-http://fanproj.taajj-iptv.org:7899/123/123/89522
-#EXTINF:-1,CA | HBO 1
-http://fanproj.taajj-iptv.org:7899/123/123/89523
-#EXTINF:-1,CA | HBO 2
-http://fanproj.taajj-iptv.org:7899/123/123/89524
-#EXTINF:-1,CA | Global HD
-http://fanproj.taajj-iptv.org:7899/123/123/89525
-#EXTINF:-1,CA | CW HD
-http://fanproj.taajj-iptv.org:7899/123/123/89526
-#EXTINF:-1,CA | AE
-http://fanproj.taajj-iptv.org:7899/123/123/89527
-#EXTINF:-1,CA | Sports NET West HD
-http://fanproj.taajj-iptv.org:7899/123/123/89528
-#EXTINF:-1,CA | TSNET Pacific HD
-http://fanproj.taajj-iptv.org:7899/123/123/89529
-#EXTINF:-1,CA | FOX New HD
-http://fanproj.taajj-iptv.org:7899/123/123/89530
-#EXTINF:-1,CA | E HD
-http://fanproj.taajj-iptv.org:7899/123/123/89531
-#EXTINF:-1,CA | Global Toronto (CIII)
-http://fanproj.taajj-iptv.org:7899/123/123/89532
-#EXTINF:-1,CA | CINE POP
-http://fanproj.taajj-iptv.org:7899/123/123/89533
-#EXTINF:-1,CA | CMT HD
-http://fanproj.taajj-iptv.org:7899/123/123/89534
-#EXTINF:-1,CA | CITY TV HD
-http://fanproj.taajj-iptv.org:7899/123/123/89535
-#EXTINF:-1,CA | COOKING Channel HD
-http://fanproj.taajj-iptv.org:7899/123/123/89536
-#EXTINF:-1,CA | ZESTE
-http://fanproj.taajj-iptv.org:7899/123/123/89537
-#EXTINF:-1,CA | TVA Sports 1 HD
-http://fanproj.taajj-iptv.org:7899/123/123/89538
-#EXTINF:-1,CA | GLOBAL VANCOUVER
-http://fanproj.taajj-iptv.org:7899/123/123/89539
-#EXTINF:-1,CA | Fight Network HD
-http://fanproj.taajj-iptv.org:7899/123/123/89540
-#EXTINF:-1,CA | FX CANADA HD
-http://fanproj.taajj-iptv.org:7899/123/123/89541
-#EXTINF:-1,CA | FXX HD
-http://fanproj.taajj-iptv.org:7899/123/123/89542
-#EXTINF:-1,CA | VISION TV
-http://fanproj.taajj-iptv.org:7899/123/123/89543
-#EXTINF:-1,CA | Unis TV
-http://fanproj.taajj-iptv.org:7899/123/123/89544
-#EXTINF:-1,CA | W.
-http://fanproj.taajj-iptv.org:7899/123/123/89546
-#EXTINF:-1,CA | CASA
-http://fanproj.taajj-iptv.org:7899/123/123/89547
-#EXTINF:-1,CA | Global VANCOUVER.
-http://fanproj.taajj-iptv.org:7899/123/123/89548
-#EXTINF:-1,CA | History Channel HD
-http://fanproj.taajj-iptv.org:7899/123/123/89549
-#EXTINF:-1,CA | LCN
-http://fanproj.taajj-iptv.org:7899/123/123/89550
-#EXTINF:-1,CA | BET
-http://fanproj.taajj-iptv.org:7899/123/123/89551
-#EXTINF:-1,CA | GLOBAL HD.
-http://fanproj.taajj-iptv.org:7899/123/123/89552
-#EXTINF:-1,CA | BOOK TV
-http://fanproj.taajj-iptv.org:7899/123/123/89553
-#EXTINF:-1,CA | GLOBAL
-http://fanproj.taajj-iptv.org:7899/123/123/89554
-#EXTINF:-1,CA | GLOBAL HALIFAX HD
-http://fanproj.taajj-iptv.org:7899/123/123/89555
-#EXTINF:-1,CA | C PAC
-http://fanproj.taajj-iptv.org:7899/123/123/89556
-#EXTINF:-1,DE | SKY KRIMI 
-http://fanproj.taajj-iptv.org:7899/123/123/2499
-#EXTINF:-1,DE | SKY CINEMA 1 
-http://fanproj.taajj-iptv.org:7899/123/123/2507
-#EXTINF:-1,DE | Sky Cinema 1 HD
-http://fanproj.taajj-iptv.org:7899/123/123/2508
-#EXTINF:-1,DE | RTL NITRO HD
-http://fanproj.taajj-iptv.org:7899/123/123/2516
-#EXTINF:-1,DE | SKY SPORT 2 HD
-http://fanproj.taajj-iptv.org:7899/123/123/2937
-#EXTINF:-1,DE | SKY SPORT NEWS HD
-http://fanproj.taajj-iptv.org:7899/123/123/2941
-#EXTINF:-1,DE | SKY Atlantic HD
-http://fanproj.taajj-iptv.org:7899/123/123/4673
-#EXTINF:-1,DE | SKY ACTION HD
-http://fanproj.taajj-iptv.org:7899/123/123/4674
-#EXTINF:-1,DE | SKY 1 HD
-http://fanproj.taajj-iptv.org:7899/123/123/4675
-#EXTINF:-1,DE | RTL CRIME HD
-http://fanproj.taajj-iptv.org:7899/123/123/4677
-#EXTINF:-1,DE | SKY NATGEO WILD HD
-http://fanproj.taajj-iptv.org:7899/123/123/4679
-#EXTINF:-1,DE | ZEE One
-http://fanproj.taajj-iptv.org:7899/123/123/4680
-#EXTINF:-1,DE | FOX HD
-http://fanproj.taajj-iptv.org:7899/123/123/4681
-#EXTINF:-1,DE | Discovery HD
-http://fanproj.taajj-iptv.org:7899/123/123/4684
-#EXTINF:-1,DE | SKY Comedy HD
-http://fanproj.taajj-iptv.org:7899/123/123/4685
-#EXTINF:-1,DE | SKY CINE MAGIC HD
-http://fanproj.taajj-iptv.org:7899/123/123/4686
-#EXTINF:-1,DE | SKY CINEMA HD
-http://fanproj.taajj-iptv.org:7899/123/123/4687
-#EXTINF:-1,DE | SKY CINEMA FAMILY HD
-http://fanproj.taajj-iptv.org:7899/123/123/4688
-#EXTINF:-1,DE | SKY CINEMA 24 HD
-http://fanproj.taajj-iptv.org:7899/123/123/4689
-#EXTINF:-1,DE | SKY CINEMA 1 HD 
-http://fanproj.taajj-iptv.org:7899/123/123/4690
-#EXTINF:-1,DE | SPIEGEL GESCHIHCHTE
-http://fanproj.taajj-iptv.org:7899/123/123/4691
-#EXTINF:-1,DE | SKY SPORT AUSTRIA HD
-http://fanproj.taajj-iptv.org:7899/123/123/4692
-#EXTINF:-1,DE | VOX
-http://fanproj.taajj-iptv.org:7899/123/123/4694
-#EXTINF:-1,DE | SPORT 1
-http://fanproj.taajj-iptv.org:7899/123/123/4700
-#EXTINF:-1,DE | SKY BUNDESLIGA 9 HD
-http://fanproj.taajj-iptv.org:7899/123/123/4702
-#EXTINF:-1,DE | SKY BUNDESLIGA 8 HD
-http://fanproj.taajj-iptv.org:7899/123/123/4703
-#EXTINF:-1,DE | SKY BUNDESLIGA 7 HD
-http://fanproj.taajj-iptv.org:7899/123/123/4704
-#EXTINF:-1,DE | SKY BUNDESLIGA 6 HD
-http://fanproj.taajj-iptv.org:7899/123/123/4705
-#EXTINF:-1,DE | SKY BUNDESLIGA 5 HD
-http://fanproj.taajj-iptv.org:7899/123/123/4706
-#EXTINF:-1,DE | SKY BUNDESLIGA 4 HD
-http://fanproj.taajj-iptv.org:7899/123/123/4707
-#EXTINF:-1,DE | SKY BUNDESLIGA 3 HD
-http://fanproj.taajj-iptv.org:7899/123/123/4708
-#EXTINF:-1,DE | SKY BUNDESLIGA 2 HD
-http://fanproj.taajj-iptv.org:7899/123/123/4709
-#EXTINF:-1,DE | SKY BUNDESLIGA 1 HD
-http://fanproj.taajj-iptv.org:7899/123/123/4710
-#EXTINF:-1,DE | SKY BUNDESLIGA1
-http://fanproj.taajj-iptv.org:7899/123/123/5808
-#EXTINF:-1,DE | SKY SPORT 2 
-http://fanproj.taajj-iptv.org:7899/123/123/5810
-#EXTINF:-1,DE | SKY SPORT 1
-http://fanproj.taajj-iptv.org:7899/123/123/5811
-#EXTINF:-1,DE | RTL PASSION
-http://fanproj.taajj-iptv.org:7899/123/123/5812
-#EXTINF:-1,DE | RTL LIVING
-http://fanproj.taajj-iptv.org:7899/123/123/5813
-#EXTINF:-1,DE | RTL CRIME
-http://fanproj.taajj-iptv.org:7899/123/123/5814
-#EXTINF:-1,DE | RTL 2
-http://fanproj.taajj-iptv.org:7899/123/123/5815
-#EXTINF:-1,DE | PRO 7 MAXX
-http://fanproj.taajj-iptv.org:7899/123/123/5817
-#EXTINF:-1,DE | Pro Sieben HD
-http://fanproj.taajj-iptv.org:7899/123/123/5818
-#EXTINF:-1,DE | ORF 2
-http://fanproj.taajj-iptv.org:7899/123/123/5819
-#EXTINF:-1,DE | ORF0ne
-http://fanproj.taajj-iptv.org:7899/123/123/5820
-#EXTINF:-1,DE | KINOWELT TV
-http://fanproj.taajj-iptv.org:7899/123/123/6064
-#EXTINF:-1,DE | NATIONALGEOGRAPHICWILD
-http://fanproj.taajj-iptv.org:7899/123/123/6065
-#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
-http://fanproj.taajj-iptv.org:7899/123/123/6066
-#EXTINF:-1,DE | KIKA
-http://fanproj.taajj-iptv.org:7899/123/123/6068
-#EXTINF:-1,DE | History HD
-http://fanproj.taajj-iptv.org:7899/123/123/6070
-#EXTINF:-1,DE | FOX
-http://fanproj.taajj-iptv.org:7899/123/123/6071
-#EXTINF:-1,DE | Euro Sport 1
-http://fanproj.taajj-iptv.org:7899/123/123/6072
-#EXTINF:-1,DE | DMAXX
-http://fanproj.taajj-iptv.org:7899/123/123/6073
-#EXTINF:-1,DE | DISNEY XD
-http://fanproj.taajj-iptv.org:7899/123/123/6074
-#EXTINF:-1,DE | DISNEY CINE MAGIC
-http://fanproj.taajj-iptv.org:7899/123/123/6076
-#EXTINF:-1,DE | DISNEY Junior
-http://fanproj.taajj-iptv.org:7899/123/123/6080
-#EXTINF:-1,DE | AXN
-http://fanproj.taajj-iptv.org:7899/123/123/6081
-#EXTINF:-1,DE | 13TH STREET
-http://fanproj.taajj-iptv.org:7899/123/123/6183
-#EXTINF:-1,DE | TNT SERIE
-http://fanproj.taajj-iptv.org:7899/123/123/8353
-#EXTINF:-1,DE | GOLD Star
-http://fanproj.taajj-iptv.org:7899/123/123/8354
-#EXTINF:-1,DE | SONY TV
-http://fanproj.taajj-iptv.org:7899/123/123/8356
-#EXTINF:-1,DE | TAGESSCHAU 24
-http://fanproj.taajj-iptv.org:7899/123/123/8364
-#EXTINF:-1,DE | SYFY
-http://fanproj.taajj-iptv.org:7899/123/123/8365
-#EXTINF:-1,DE | RTL CRIME 
-http://fanproj.taajj-iptv.org:7899/123/123/8366
-#EXTINF:-1,DE | BUNDESLIGA 2
-http://fanproj.taajj-iptv.org:7899/123/123/8367
-#EXTINF:-1,DE | BUNDESLIGA1
-http://fanproj.taajj-iptv.org:7899/123/123/8368
-#EXTINF:-1,DE | SKY SPORT AUSTRIA 
-http://fanproj.taajj-iptv.org:7899/123/123/8369
-#EXTINF:-1,DE | SKY,SPORT,NEWS
-http://fanproj.taajj-iptv.org:7899/123/123/8370
-#EXTINF:-1,DE | PRO 7 FUN HD
-http://fanproj.taajj-iptv.org:7899/123/123/8372
-#EXTINF:-1,DE | ORF SPORT HD
-http://fanproj.taajj-iptv.org:7899/123/123/8373
-#EXTINF:-1,DE | Euro Sport
-http://fanproj.taajj-iptv.org:7899/123/123/8374
-#EXTINF:-1,DE | SPIEGEL TV
-http://fanproj.taajj-iptv.org:7899/123/123/8375
-#EXTINF:-1,DE | NATGEOWILD
-http://fanproj.taajj-iptv.org:7899/123/123/8376
-#EXTINF:-1,DE | NATGEO
-http://fanproj.taajj-iptv.org:7899/123/123/8377
-#EXTINF:-1,DE | Discovery
-http://fanproj.taajj-iptv.org:7899/123/123/8378
-#EXTINF:-1,DE | EUROneWS
-http://fanproj.taajj-iptv.org:7899/123/123/8379
-#EXTINF:-1,DE | Classica
-http://fanproj.taajj-iptv.org:7899/123/123/8380
-#EXTINF:-1,DE | ORF III
-http://fanproj.taajj-iptv.org:7899/123/123/8381
-#EXTINF:-1,DE | RTL PLUS
-http://fanproj.taajj-iptv.org:7899/123/123/8382
-#EXTINF:-1,DE | SKY KRIMI
-http://fanproj.taajj-iptv.org:7899/123/123/8385
-#EXTINF:-1,DE | SKY Comedy
-http://fanproj.taajj-iptv.org:7899/123/123/8386
-#EXTINF:-1,DE | SKY EMOTION
-http://fanproj.taajj-iptv.org:7899/123/123/8387
-#EXTINF:-1,DE | DAZN SPORT 1 HD
-http://fanproj.taajj-iptv.org:7899/123/123/33426
-#EXTINF:-1,DE | DAZN SPORT 2 HD
-http://fanproj.taajj-iptv.org:7899/123/123/33427
-#EXTINF:-1,DE | SKYSelect7
-http://fanproj.taajj-iptv.org:7899/123/123/8853
-#EXTINF:-1,DE | SKYSelect6
-http://fanproj.taajj-iptv.org:7899/123/123/8854
-#EXTINF:-1,DE | SKYSelect5
-http://fanproj.taajj-iptv.org:7899/123/123/8855
-#EXTINF:-1,DE | SKYSelect4
-http://fanproj.taajj-iptv.org:7899/123/123/8856
-#EXTINF:-1,DE | SKYSelect3
-http://fanproj.taajj-iptv.org:7899/123/123/8857
-#EXTINF:-1,DE | SKYSelect2
-http://fanproj.taajj-iptv.org:7899/123/123/8858
-#EXTINF:-1,DE | ZDF HD
-http://fanproj.taajj-iptv.org:7899/123/123/17665
-#EXTINF:-1,DE | N TV HD
-http://fanproj.taajj-iptv.org:7899/123/123/17666
-#EXTINF:-1,DE | RTL
-http://fanproj.taajj-iptv.org:7899/123/123/10321
-#EXTINF:-1,FR | TF1 HD
-http://fanproj.taajj-iptv.org:7899/123/123/2253
-#EXTINF:-1,FR | M6 HD
-http://fanproj.taajj-iptv.org:7899/123/123/2252
-#EXTINF:-1,FR | FRANCE 2
-http://fanproj.taajj-iptv.org:7899/123/123/2251
-#EXTINF:-1,FR | FRANCE 3
-http://fanproj.taajj-iptv.org:7899/123/123/2250
-#EXTINF:-1,FR | FRANCE 4
-http://fanproj.taajj-iptv.org:7899/123/123/2249
-#EXTINF:-1,FR | FRANCE 5
-http://fanproj.taajj-iptv.org:7899/123/123/2248
-#EXTINF:-1,FR | FRANCE O
-http://fanproj.taajj-iptv.org:7899/123/123/2247
-#EXTINF:-1,FR | DISNEY Junior
-http://fanproj.taajj-iptv.org:7899/123/123/5270
-#EXTINF:-1,FR | DISNEY Channel 1
-http://fanproj.taajj-iptv.org:7899/123/123/5272
-#EXTINF:-1,FR | BEIN Sports 1 HD
-http://fanproj.taajj-iptv.org:7899/123/123/2160
-#EXTINF:-1,FR | BEIN Sports 2 HD
-http://fanproj.taajj-iptv.org:7899/123/123/2159
-#EXTINF:-1,FR | BEIN Sports 3 HD
-http://fanproj.taajj-iptv.org:7899/123/123/2158
-#EXTINF:-1,FR | BEIN Sports MAX 7
-http://fanproj.taajj-iptv.org:7899/123/123/8837
-#EXTINF:-1,FR | BEIN Sports MAX 8
-http://fanproj.taajj-iptv.org:7899/123/123/8838
-#EXTINF:-1,FR | BEIN Sports MAX 9
-http://fanproj.taajj-iptv.org:7899/123/123/8839
-#EXTINF:-1,FR | BEIN Sports MAX 10
-http://fanproj.taajj-iptv.org:7899/123/123/8840
-#EXTINF:-1,FR | DISNEY Channel HD
-http://fanproj.taajj-iptv.org:7899/123/123/2181
-#EXTINF:-1,FR | BEIN sports 1 SD
-http://fanproj.taajj-iptv.org:7899/123/123/18651
-#EXTINF:-1,FR | BEIN sports 2 SD
-http://fanproj.taajj-iptv.org:7899/123/123/18652
-#EXTINF:-1,FR | BEIN sports 3 SD
-http://fanproj.taajj-iptv.org:7899/123/123/18653
-#EXTINF:-1,GR| Cosmote Sport 1 HD
-http://red.ipfox.org:8080/Etronics_5YXq9S/lFFItvo3/17603
+http://firsthd.in:8000/c/
+
+00:1a:79:00:30:E8
+00:1a:79:00:30:D6
+00:1A:79:00:00:00
+00:1A:79:00:30:EF
+00:1A:79:00:31:8A
+00:1A:79:00:30:ED
+00:1A:79:00:31:27
+00:1a:79:00:31:78
+00:1A:79:00:31:08
+00:1a:79:00:31:70
+00:1A:79:00:30:8E
+00:1A:79:00:34:58
+00:1A:79:00:31:4B
+00:1A:79:00:33:BE
+00:1A:79:00:33:74
+00:1A:79:00:33:B3
+00:1A:79:00:32:26
+00:1A:79:00:31:9D
+00:1a:79:00:30:76
+00:1A:79:00:31:6B
+00:1A:79:00:34:96
+00:1A:79:00:33:CF
+00:1A:79:00:33:B2
+00:1A:79:00:35:2E
+00:1A:79:00:31:9F
+00:1A:79:00:34:A2
+00:1A:79:00:36:5F
+00:1a:79:00:33:C4
+00:1A:79:00:30:BC
+00:1A:79:00:33:D5
+00:1A:79:00:31:AE
+00:1a:79:00:36:75
+00:1A:79:00:33:a9
+00:1A:79:00:33:D4
+00:1A:79:00:33:B9
+00:1A:79:00:32:77
+00:1A:79:00:37:26
+00:1A:79:00:33:41
+00:1A:79:00:36:86
+00:1A:79:00:31:48
+00:1A:79:00:36:09
+00:1a:79:00:34:5C
+00:1A:79:00:36:3F
+00:1a:79:00:36:C4
+00:1A:79:00:35:72
+00:1A:79:00:30:6B
+00:1A:79:00:33:43
+00:1A:79:00:34:9A
+00:1a:79:00:36:E0
+00:1A:79:00:33:DC
+00:1A:79:00:36:9F
+00:1A:79:00:33:A4
+00:1A:79:00:33:4A
+00:1A:79:00:33:3F
+00:1A:79:00:32:73
+00:1A:79:00:36:07
+00:1a:79:00:36:98
+00:1A:79:00:31:E7
+00:1A:79:00:37:B3
+00:1a:79:00:31:94
+00:1A:79:00:32:8E
+00:1a:79:00:37:96
+00:1A:79:00:33:4B
+00:1a:79:00:35:1C
+00:1A:79:00:40:D0
+00:1A:79:00:36:A5
+00:1A:79:00:30:EC
+00:1A:79:00:6E:44
+00:1a:79:00:77:ea
+00:1A:79:00:31:E8
+00:1A:79:00:31:2D
+00:1a:79:00:CF:50
+00:1A:79:00:30:E2
+00:1a:79:00:30:90
+00:1a:79:02:09:aa
+00:1A:79:02:0F:F9
+00:1A:79:00:37:5D
+00:1A:79:00:33:EC
+00:1a:79:01:f8:88
+00:1A:79:02:03:08
+00:1A:79:01:FB:1F
+00:1a:79:01:fd:d2
+00:1A:79:02:0D:44
+00:1A:79:02:04:89
+00:1a:79:01:fe:b3
+00:1A:79:02:02:01
+00:1A:79:01:F9:2B
+00:1a:79:02:05:e4
+00:1A:79:02:0F:42
+00:1a:79:01:ff:a8
+00:1A:79:02:12:E7
+00:1A:79:02:01:64
+00:1A:79:02:06:0B
+00:1A:79:02:03:05
+00:1A:79:02:02:A4
+00:1a:79:02:08:63
+00:1a:79:02:14:ad
+00:1a:79:02:05:09
+00:1A:79:02:03:03
+00:1a:79:02:02:b4
+00:1A:79:01:FD:52
+00:1A:79:02:03:06
+00:1A:79:02:0D:A1
+00:1A:79:02:0f:de
+00:1a:79:02:09:01
+00:1a:79:02:11:ba
+00:1A:79:02:03:07
+00:1A:79:02:11:94
+00:1A:79:02:03:02
+00:1A:79:02:03:09
+00:1A:79:02:0B:88
+00:1A:79:01:81:31
+00:1A:79:02:01:01
+00:1A:79:01:FD:99
+00:1A:79:02:03:1C
+00:1a:79:01:ff:d7
+00:1A:79:01:FE:6B
+00:1A:79:02:15:2D
+00:1a:79:01:f9:10
+00:1A:79:01:FD:01
+00:1A:79:02:11:72
+00:1A:79:02:00:BD
+00:1a:79:02:09:22
+00:1A:79:02:1D:F8
+00:1A:79:02:02:02
+00:1A:79:02:0C:56
+00:1A:79:02:14:D3
+00:1A:79:02:04:D2
+00:1a:79:02:1c:f0
+00:1A:79:02:0e:ed
+00:1A:79:02:01:77
+00:1a:79:02:01:96
+00:1a:79:02:0f:00
+00:1A:79:02:0A:8A
+00:1A:79:02:0D:3B
+00:1a:79:02:0E:35
+00:1A:79:02:0F:BA
+00:1A:79:02:18:2F
+00:1A:79:02:02:B3
+00:1A:79:02:1F:53
+00:1A:79:02:16:C9
+00:1A:79:02:0F:41
+00:1A:79:02:02:81
+00:1A:79:02:1f:4e
+00:1a:79:01:fd:93
+00:1A:79:02:09:A4
+00:1a:79:02:0F:18
+00:1A:79:02:14:82
+00:1A:79:02:0F:70
+00:1a:79:02:19:ee
+00:1a:79:02:0a:2b
+00:1A:79:02:06:27
+00:1A:79:00:75:61
+00:1A:79:02:08:13
+00:1A:79:02:1A:65
+00:1A:79:02:1D:5C
+00:1A:79:02:17:DA
+00:1A:79:02:19:80
+00:1A:79:00:31:8F
+00:1a:79:00:36:C9
+00:1A:79:06:1E:0D
+00:1a:79:02:19:8B
+00:1A:79:09:a3:36
+00:1A:79:02:03:04
+00:1a:79:00:36:CB
+00:1A:79:11:22:33
+00:1A:79:16:F3:06
+00:1a:79:19:0a:3a
+00:1A:79:00:35:8B
+00:1A:79:25:08:1E
+00:1A:79:23:59:01
+00:1A:79:25:5D:DC
+00:1A:79:29:6D:25
+00:1A:79:25:11:5E
+00:1a:79:28:06:11
+00:1A:79:2A:AE:DA
+00:1A:79:29:F8:CE
+00:1a:79:2b:e8:cd
+00:1A:79:2E:EB:6F
+00:1A:79:2E:E9:ED
+00:1a:79:31:10:68
+00:1a:79:32:B2:B2
+00:1A:79:36:C5:19
+00:1A:79:36:D2:88
+00:1A:79:36:FF:FA
+00:1A:79:36:F6:ED
+00:1A:79:36:F9:F0
+00:1A:79:37:1D:62
+00:1A:79:37:26:41
+00:1A:79:37:1F:DF
+00:1A:79:36:BE:60
+00:1A:79:37:1F:3A
+00:1A:79:36:EA:8A
+00:1A:79:37:11:20
+00:1A:79:37:10:CF
+00:1A:79:36:EF:9C
+00:1A:79:37:1F:B4
+00:1A:79:37:1F:B2
+00:1A:79:37:10:69
+00:1a:79:38:3B:8A
+00:1A:79:36:BE:57
+00:1A:79:3A:FA:5A
+00:1A:79:3C:4B:74
+00:1A:79:3D:27:2D
+00:1A:79:3D:4F:EF
+00:1A:79:3D:1E:DE
+00:1A:79:3D:9A:B3
+00:1a:79:3d:91:d2
+00:1A:79:3D:73:84
+00:1A:79:3D:8D:C5
+00:1A:79:3D:C6:C0
+00:1A:79:3F:22:F0
+00:1A:79:40:4F:86
+00:1A:79:40:54:17
+00:1A:79:40:55:25
+00:1A:79:40:55:33
+00:1A:79:40:4F:CB
+00:1A:79:40:55:81
+00:1A:79:40:55:17
+00:1A:79:40:53:C6
+00:1a:79:40:80:13
+00:1A:79:40:55:1C
+00:1A:79:40:BC:E7
+00:1A:79:40:55:34
+00:1A:79:40:BF:11
+00:1A:79:3F:21:47
+00:1A:79:40:53:C8
+00:1A:79:40:CA:3A
+00:1A:79:41:73:E0
+00:1a:79:40:76:30
+00:1a:79:41:7e:4b
+00:1A:79:40:B8:07
+00:1A:79:43:36:4D
+00:1a:79:43:5a:df
+00:1a:79:43:85:97
+00:1A:79:42:BE:BE
+00:1A:79:45:69:6C
+00:1A:79:46:37:4E
+00:1A:79:46:09:BD
+00:1A:79:46:1E:98
+00:1A:79:45:AB:70
+00:1A:79:40:A6:B1
+00:1A:79:47:58:15
+00:1A:79:47:a5:67
+00:1A:79:47:C6:7D
+00:1A:79:47:8F:22
+00:1A:79:47:EC:24
+00:1A:79:48:06:F3
+00:1A:79:49:91:8C
+00:1A:79:4D:8E:57
+00:1A:79:4F:81:07
+00:1a:79:50:00:01
+00:1A:79:53:D0:F5
+00:1a:79:54:36:fb
+00:1A:79:58:D9:EC
+00:1A:79:46:4D:03
+00:1A:79:5F:60:54
+00:1a:79:62:bc:5d
+00:1A:79:66:F7:B9
+00:1A:79:68:40:47
+00:1a:79:68:46:92
+00:1A:79:73:9A:2C
+00:1a:79:72:f5:33
+00:1a:79:85:eb:96
+00:1A:79:91:9F:AF
+00:1A:79:98:96:89
+00:1a:79:9f:7b:df
+00:1A:79:9E:4D:9C
+00:1a:79:a1:aa:8a
+00:1a:79:a2:e9:55
+00:1a:79:a2:fd:c2
+00:1A:79:A6:1F:12
+00:1A:79:A5:E9:CC
+00:1a:79:aa:d0:c3
+00:1A:79:AA:43:21
+00:1A:79:AA:82:E0
+00:1A:79:AB:E9:FB
+00:1A:79:AE:7C:A6
+00:1A:79:AF:0E:03
+00:1A:79:C5:3B:56
+00:1a:79:d6:60:dd
+00:1A:79:D6:D6:ED
+00:1a:79:dc:8d:28
+00:1a:79:dc:86:76
+00:1A:79:F1:B8:05
+00:1A:79:EE:D3:7B
+00:1A:79:F9:5F:45
+00:1A:79:F9:5F:56
+00:1A:79:00:2A:DA
+00:1A:79:00:04:03
+00:1A:79:00:08:18
+00:1A:79:00:19:4B
+00:1A:79:00:14:2D
+00:1A:79:00:33:30
+00:1A:79:00:31:EC
+http://glotv.me/stalker_portal/c/
+MAC = 00:1A:79:46:AE:D5 Expires = 2020-06-21 00:51:19 Parent Password = 7070
+MAC = 00:1A:79:5A:4D:F0 Expires = 2020-06-03 00:00:00 Parent Password = 7070
+http://iptveu.iptveu.xyz:8000/c
+00:1A:79:AD:AF:27
+00:1A:79:AB:AE:CF
+00:1A:79:50:D4:50
+00:1A:79:AD:A3:6C
+http://jb.worldip.nl:1339/
+00:1A:79:6A:BB:0F
+00:1A:79:AE:24:CA
+00:1A:79:A2:BF:14
+00:1A:79:A1:5F:33
+00:1A:79:2E:55:AC
+00:1A:79:2D:F0:AC
+00:1A:79:DD:3F:1D
+http://mag.123tv.to:8080
+00:1a:79:ab:dc:1e May 26, 2020, 3:20
+00:1a:79:1e:50:ab October 23, 2020, 7:01
+00:1a:79:4c:f2:23 July 5, 2020, 1:37
+00:1a:79:41:72:39 June 1, 2020, 8:13
+00:1a:79:ab:51:93 April 9, 2021, 3:32
+00:1a:79:a5:e6:9c April 26, 2020, 10:32
+http://uktv3.host:83
+00:1a:79:49:a0:1c
+00:1a:79:4a:3d:c7
+00:1a:79:4b:ae:67
+00:1a:79:4c:2a:cb
+http://pro2premium.ddns.net:5998/c/
+00:1A:79:40:B9:83
+00:1A:79:40:AF:9D
+http://yellow-star.info:8000/All
+00:1A:79:0F:86:71
+00:1A:79:3C:51:6E
+00:1A:79:17:0E:AC
+00:1A:79:62:99:46
+00:1A:79:4D:8B:4A
+00:1A:79:1C:2E:24
+00:1A:79:62:99:46
+00:1A:79:54:F0:5E
+00:1A:79:86:44:2F
+http://jackprive.ddns.net:8000
+00:1a:79:49:68:e0
+00:1a:79:51:70:0c
+00:1a:79:5a:1c:2a
+http://www.sansat.net:25461
+00:1A:79:02:E1:51
+00:1A:79:02:FC:05
+00:1A:79:03:0C:4D
+00:1A:79:03:1F:EC
+00:1A:79:03:20:06
+00:1A:79:03:1E:DC
+00:1A:79:03:27:64
+00:1A:79:03:43:42
+00:1A:79:03:5A:58
+00:1A:79:03:5D:40
+http://2.58.193.86:8000/c/
+00:1A:79:5E:C6:31
+00:1A:79:5E:CF:B0
+00:1A:79:5E:CF:B9
+00:1A:79:5E:DE:15
+00:1A:79:5C:CF:84
+00:1A:79:5C:D0:35
+00:1A:79:5C:D9:1C
+00:1A:79:5C:DB:5C
+http://iptvkosova.ml.gentv.to:8080/c
+00:1A:79:33:5A:2C
+00:1A:79:33:61:30
+00:1A:79:33:62:45
+00:1A:79:33:67:67
+00:1A:79:33:68:10
+00:1A:79:33:76:26
+00:1A:79:40:18:BA
+00:1A:79:1E:7F:01
+00:1A:79:1E:7F:1E
+00:1A:79:1E:7F:2A
+00:1A:79:33:42:70
+00:1A:79:2C:FE:60
+00:1A:79:2D:00:CC
+00:1A:79:00:13:72 | MAC = 00:1A:79:00:13:72 | Expire: = December 26, 2020, 8:37 pm | User:Pass = [dInD3ZEY2T:oXFRdkaAp1] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=dInD3ZEY2T&password=oXFRdkaAp1&type=m3u
+00:1A:79:00:01:80 | MAC = 00:1A:79:00:01:80 | Expire: = April 4, 2020, 11:57 pm | User:Pass = [donker:eHkcyhgLnf] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=donker&password=eHkcyhgLnf&type=m3u
+00:1A:79:00:06:C2 | MAC = 00:1A:79:00:06:C2 | Expire: = February 24, 2021, 10:56 pm | User:Pass = [asrambaba0220:d2RVYUcxs5] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=asrambaba0220&password=d2RVYUcxs5&type=m3u
+00:1A:79:00:08:1B | MAC = 00:1A:79:00:08:1B | Expire: = May 26, 2020, 2:39 pm | User:Pass = [Ashur27131063:nT3mxJou2D] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=Ashur27131063&password=nT3mxJou2D&type=m3u
+00:1A:79:00:0B:F3 | MAC = 00:1A:79:00:0B:F3 | Expire: = March 27, 2020, 11:44 pm | User:Pass = [XiekPBhIaN:uS9iBchQ7s] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=XiekPBhIaN&password=uS9iBchQ7s&type=m3u
+00:1A:79:00:13:00 | MAC = 00:1A:79:00:13:00 | Expire: = May 25, 2020, 1:16 pm | User:Pass = [gEx49Zfa86:3dvoWDbeiT] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=gEx49Zfa86&password=3dvoWDbeiT&type=m3u
+00:1A:79:00:13:9A | MAC = 00:1A:79:00:13:9A | Expire: = August 27, 2020, 1:15 pm | User:Pass = [doug0833:dvrQFzmbZf] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=doug0833&password=dvrQFzmbZf&type=m3u
+00:1A:79:00:13:63 | MAC = 00:1A:79:00:13:63 | Expire: = April 23, 2020, 12:14 pm | User:Pass = [Split1:FjJTgzyEdw] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=Split1&password=FjJTgzyEdw&type=m3u
+00:1A:79:00:13:87 | MAC = 00:1A:79:00:13:87 | Expire: = October 14, 2020, 8:24 am | User:Pass = [nUM8VYtqyr:ZNSzRrd41Y] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=nUM8VYtqyr&password=ZNSzRrd41Y&type=m3u
+00:1A:79:00:16:95 | MAC = 00:1A:79:00:16:95 | Expire: = September 7, 2020, 1:51 pm | User:Pass = [fa_G\u00fcrbis:jVae4qcpTR] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=fa_G\u00fcrbis&password=jVae4qcpTR&type=m3u
+00:1A:79:00:17:A7 | MAC = 00:1A:79:00:17:A7 | Expire: = July 29, 2020, 1:16 pm | User:Pass = [SSMy7do32F:zqmsyIWptV] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=SSMy7do32F&password=zqmsyIWptV&type=m3u
+00:1A:79:00:17:CE | MAC = 00:1A:79:00:17:CE | Expire: = May 29, 2020, 6:13 pm | User:Pass = [lpR2FI4TKC:mPVqTJl2AS] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=lpR2FI4TKC&password=mPVqTJl2AS&type=m3u
+00:1A:79:00:1F:D9 | MAC = 00:1A:79:00:1F:D9 | Expire: = March 15, 2020, 7:39 pm | User:Pass = [VCIxAur3XM:l2HTFtoy3d] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=VCIxAur3XM&password=l2HTFtoy3d&type=m3u
+00:1A:79:00:20:2A | MAC = 00:1A:79:00:20:2A | Expire: = September 18, 2020, 4:09 pm | User:Pass = [wIUBHawXvN:2RsSxqJtHr] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=wIUBHawXvN&password=2RsSxqJtHr&type=m3u
+00:1A:79:00:24:5A | MAC = 00:1A:79:00:24:5A | Expire: = August 31, 2020, 8:21 am | User:Pass = [stamenkovic:AZxWhCnwVy] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=stamenkovic&password=AZxWhCnwVy&type=m3u
+00:1A:79:00:25:93 | MAC = 00:1A:79:00:25:93 | Expire: = March 13, 2020, 3:55 pm | User:Pass = [4GWBRpzTVr:tD1mWPvSeQ] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=4GWBRpzTVr&password=tD1mWPvSeQ&type=m3u
+00:1A:79:00:25:B8 | MAC = 00:1A:79:00:25:B8 | Expire: = March 19, 2020, 5:31 pm | User:Pass = [BYmd3F1qyl:nwW5pU38qe] | URL = http://portal.geniptv.com.123tv.to:8080/get.php?username=BYmd3F1qyl&password=nwW5pU38qe&type=m3u
+00:1a:79:00:4b:f4 | Expira = July 19, 2020, 8:35 am | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:5565,”max_page_items”:14,”selected_item”:6,”cur_page”:218,”data”:[{“id”:”55550?,”name”:”BG: DISNEY JUNIOR”,”number”:”3039?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/022613131719\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:01:06:a3 | Expira = June 14, 2020, 6:38 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:7101,”max_page_items”:14,”selected_item”:3,”cur_page”:12,”data”:[{“id”:”25523?,”name”:”MYHD: MBC1 HD”,”number”:”155?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/l2bUKiBl7q\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:00:0e:56 | Expira = December 3, 2020, 3:01 am | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:7101,”max_page_items”:14,”selected_item”:7,”cur_page”:338,”data”:[{“id”:”68039?,”name”:”Studio B”,”number”:”4719?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/NeJIBkZYBgVjtvu\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:01:1c:fa | Expira = November 12, 2020, 6:01 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:5565,”max_page_items”:14,”selected_item”:2,”cur_page”:177,”data”:[{“id”:”55242?,”name”:”ALB: JIM JAM “,”number”:”2465?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/028294799889\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:01:43:ba | Expira = July 29, 2020, 9:24 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:5871,”max_page_items”:14,”selected_item”:0,”cur_page”:1,”data”:[{“id”:”6727?,”name”:”beiN Sports HD”,”number”:”1?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/029380242215\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:01:1a:78 | Expira = January 24, 2021, 7:32 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:5565,”max_page_items”:14,”selected_item”:9,”cur_page”:375,”data”:[{“id”:”53274?,”name”:”RELIGIOUS: GOD TV AFRICA”,”number”:”5237?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/027049971575\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:00:c4:76 | Expira = May 25, 2020, 6:09 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:7101,”max_page_items”:14,”selected_item”:11,”cur_page”:19,”data”:[{“id”:”50001?,”name”:”AR: BIN OUTHAYMINE”,”number”:”253?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/ZiVeUABKl1TJsqO\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:00:7f:fe | Expira = June 17, 2020, 7:17 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:5565,”max_page_items”:14,”selected_item”:3,”cur_page”:67,”data”:[{“id”:”52578?,”name”:”M6 MUSIC”,”number”:”925?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/028736874600\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:00:ee:da | Expira = September 15, 2020, 4:50 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:5565,”max_page_items”:14,”selected_item”:2,”cur_page”:172,”data”:[{“id”:”55172?,”name”:”ALB: RTSH SPORT HD”,”number”:”2395?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/02024526423689\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:00:34:96 | Expira = February 11, 2021, 5:45 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:5565,”max_page_items”:14,”selected_item”:3,”cur_page”:303,”data”:[{“id”:”58508?,”name”:”LATIN: DISCOVERY THEATER”,”number”:”4229?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/02024215813420\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:00:eb:71 | Expira = January 5, 2021, 5:59 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:5565,”max_page_items”:14,”selected_item”:14,”cur_page”:216,”data”:[{“id”:”55522?,”name”:”BG: PLANETA HD”,”number”:”3011?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/MAG9432861793\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:00:1c:7a | Expira = September 19, 2020, 10:02 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:5565,”max_page_items”:14,”selected_item”:14,”cur_page”:8,”data”:[{“id”:”53641?,”name”:”OSN: MOVIES FIRST UHD”,”number”:”99?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/025882025369\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:00:dc:e3 | Expira = May 14, 2020, 6:40 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:7101,”max_page_items”:14,”selected_item”:7,”cur_page”:362,”data”:[{“id”:”58743?,”name”:”USA: CNN”,”number”:”5055?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/yMt9fXQRaAsZAUj\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:01:ad:35 | Expira = May 16, 2020, 10:34 am | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:5565,”max_page_items”:14,”selected_item”:10,”cur_page”:226,”data”:[{“id”:”57408?,”name”:”SW: EUROSPORT 1 UHD”,”number”:”3151?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/02431751913973\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:00:f9:0e | Expira = May 7, 2020, 6:39 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:5565,”max_page_items”:14,”selected_item”:2,”cur_page”:12,”data”:[{“id”:”25523?,”name”:”MYHD: MBC1 HD”,”number”:”155?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/02517262503014\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:00:22:5a | Expira = August 6, 2020, 7:37 am | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:4699,”max_page_items”:14,”selected_item”:1,”cur_page”:295,”data”:[{“id”:”58778?,”name”:”USA: NFL NETWORK”,”number”:”4117?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/e04s2SQOkr\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:01:c1:0f | Expira = February 8, 2021, 1:51 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:7101,”max_page_items”:14,”selected_item”:11,”cur_page”:147,”data”:[{“id”:”55473?,”name”:”BE: ECLIPS TV”,”number”:”2045?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/nbAIREcaorFjvDd\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:01:ba:40 | Expira = April 8, 2021, 2:59 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:7101,”max_page_items”:14,”selected_item”:7,”cur_page”:7,”data”:[{“id”:”55232?,”name”:”ALB: RTV21 JUNIOR”,”number”:”85?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/fYdCe1gLIE6OZwL\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:01:89:40 | Expira = September 7, 2020, 4:52 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:7101,”max_page_items”:14,”selected_item”:5,”cur_page”:182,”data”:[{“id”:”57060?,”name”:”PT: CANAL 11?,”number”:”2535?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/eQHC0SVE1c\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1a:79:00:e9:00 | Expira = June 20, 2020, 9:46 pm | Lista = http://balkanfree.net:25461/get.php?username={“js”:{“total_items”:3169,”max_page_items”:14,”selected_item”:8,”cur_page”:142,”data”:[{“id”:”57894?,”name”:”TR: ELIT SMART PREMIUM HD”,”number”:”1975?,”censored”:””,”cmd”:”ffmpeg http:\/\/sansatplus.net:25461\/iowizUiCF9\/&type=m3u | Estado = | Conecciones permitidas = | Conectados =
+00:1A:79:43:57:F9 | MAC = 00:1A:79:43:57:F9 | Expire: = August 24, 2020, 6:25 pm | User:Pass = [482793839:UlmGHkG5Jh] | URL = http://www.dream4tv.com/get.php?username=482793839&password=UlmGHkG5Jh&type=m3u
+00:1A:79:2b:e5:c4 | MAC = 00:1A:79:2b:e5:c4 | Expire: = March 19, 2020, 4:26 pm | User:Pass = [fCW62rUIX8:TV8wPWEfQ6] | URL = http://client-best2019.club:8080/get.php?username=fCW62rUIX8&password=TV8wPWEfQ6&type=m3u
+00:1A:79:97:11:91 | MAC = 00:1A:79:97:11:91 | Expire: = December 11, 2020, 7:16 am | User:Pass = [KzMVt9ZhKA:0AdFAeXZaw] | URL = http://client-best2019.club:8080/get.php?username=KzMVt9ZhKA&password=0AdFAeXZaw&type=m3u
+00:1A:79:00:53:ad | MAC = 00:1A:79:00:53:ad | Expire: = February 26, 2020, 7:27 pm | User:Pass = [474649513:XRN37cYYOn] | URL = http://www.dream4tv.com/get.php?username=474649513&password=XRN37cYYOn&type=m3u
+00:1A:79:00:1e:88 | MAC = 00:1A:79:00:1e:88 | Expire: = April 6, 2020, 5:33 pm | User:Pass = [800294049:nTTegLclFg] | URL = http://www.dream4tv.com/get.php?username=800294049&password=nTTegLclFg&type=m3u
+00:1A:79:2b:84:68 | MAC = 00:1A:79:2b:84:68 | Expire: = January 29, 2021, 4:06 am | User:Pass = [w0CejA0W2v:8HqP9ZZCtV] | URL = http://client-best2019.club:8080/get.php?username=w0CejA0W2v&password=8HqP9ZZCtV&type=m3u
+00:1A:79:5E:81:DB | MAC = 00:1A:79:5E:81:DB | Expire: = November 1, 2020, 12:06 pm | User:Pass = [anjU3WM0yJ:V7h3Bkzt1Q] | URL = http://client-best2019.club:8080/get.php?username=anjU3WM0yJ&password=V7h3Bkzt1Q&type=m3u
+00:1A:79:00:7b:49 | MAC = 00:1A:79:00:7b:49 | Expire: = April 30, 2020, 2:56 pm | User:Pass = [87461558:2StDMKtsnt] | URL = http://www.dream4tv.com/get.php?username=87461558&password=2StDMKtsnt&type=m3u
+00:1A:79:00:9f:c8 | MAC = 00:1A:79:00:9f:c8 | Expire: = May 20, 2020, 6:53 pm | User:Pass = [188568585:49lB5HKnN4] | URL = http://www.dream4tv.com/get.php?username=188568585&password=49lB5HKnN4&type=m3u
+00:1A:79:2b:79:83 | MAC = 00:1A:79:2b:79:83 | Expire: = October 13, 2020, 9:37 am | URL = http://client-best2019.club:8080/get.php?username=&password=&type=m3u
+00:1A:79:2b:9e:b3 | MAC = 00:1A:79:2b:9e:b3 | Expire: = February 9, 2020, 5:01 am | User:Pass = [BWkqDFEcZtcUBm:5p00R80cZ6nvm1] | URL = http://client-best2019.club:8080/get.php?username=BWkqDFEcZtcUBm&password=5p00R80cZ6nvm1&type=m3u
+00:1A:79:44:BE:F2 | MAC = 00:1A:79:44:BE:F2 | Expire: = April 26, 2020, 4:53 pm | User:Pass = [ngtPaDc2Ft:5R5hBBtmRE] | URL = http://client-best2019.club:8080/get.php?username=ngtPaDc2Ft&password=5R5hBBtmRE&type=m3u
+00:1A:79:00:8f:db | MAC = 00:1A:79:00:8f:db | Expire: = March 12, 2020, 6:18 pm | User:Pass = [491635635:y9EkFJ7OXm] | URL = http://www.dream4tv.com/get.php?username=491635635&password=y9EkFJ7OXm&type=m3u
+00:1A:79:00:7c:dc | MAC = 00:1A:79:00:7c:dc | Expire: = March 15, 2020, 6:12 pm | User:Pass = [693388347:QSaOlrbska] | URL = http://www.dream4tv.com/get.php?username=693388347&password=QSaOlrbska&type=m3u
+00:1A:79:2b:5a:e0 | MAC = 00:1A:79:2b:5a:e0 | Expire: = December 20, 2020, 8:12 pm | User:Pass = [h32APMqQRj:wdzJQZDWQE] | URL = http://client-best2019.club:8080/get.php?username=h32APMqQRj&password=wdzJQZDWQE&type=m3u
+00:1A:79:00:2d:1f | MAC = 00:1A:79:00:2d:1f | Expire: = October 29, 2020, 2:01 pm | User:Pass = [172264355:9loJ29wZ20] | URL = http://www.dream4tv.com/get.php?username=172264355&password=9loJ29wZ20&type=m3u
+00:1A:79:2b:e7:21 | MAC = 00:1A:79:2b:e7:21 | Expire: = February 10, 2020, 9:56 pm | User:Pass = [qAEYMYKBrc:e8rct4kUmq] | URL = http://client-best2019.club:8080/get.php?username=qAEYMYKBrc&password=e8rct4kUmq&type=m3u
+00:1A:79:A3:D7:FA | MAC = 00:1A:79:A3:D7:FA | Expire: = December 15, 2020, 11:41 am | User:Pass = [103SHXpwC2:Hk1fDDTgkx] |
+http://server.watchu.tv:8000/c/
+00:1A:79:49:31:02 June 5, 2020
+00:1A:79:C1:9F:2D March 2, 2021
+00:1A:79:00:B4:05 July 25, 2020
+http://aytekiptv.com:8080/c/
+MAC: 00:1A:79:4B:7D:1C
+MAC: 00:1A:79:4B:F9:36
+MAC: 00:1A:79:A1:31:F9
+MAC: 00:1A:79:3A:D8:A3
+MAC: 00:1A:79:42:4F:29
+MAC: 00:1A:79:CD:2F:8B
+MAC: 00:1A:79:0D:1D:30
+MAC:00:1A:79:3A:D8:A3
+MAC: 00:1A:79:31:F7:24
+http://newlook.link:80/c/
+MAC: 00:1A:79:00:3D:79
+MAC: 00:1A:79:12:42:9E
+MAC: 00:1A:79:00:B4:EF
+MAC: 00:1A:79:00:A3:A2
+MAC: 00:1A:79:00:05:5B
+http://p5.giffy.be:8080/c/
+MAC: 00:1A:79:9B:6F:B0
+MAC: 00:1A:79:22:4F:58
+MAC: 00:1A:79:A6:B7:DA
+http://tt.rip/c/
+MAC: 00:1A:79:2E:EE:A0
+MAC: 00:1A:79:3D:C6:C0
+MAC: 00:1A:79:3D:5C:2E
+http://tv.nova-iptv.com:25461/c/
+MAC: 00:1a:79:3b:41:ae
+MAC: 00:1a:79:3d:ec:76
+MAC: 00:1a:79:1b:09:c5
+http://viptv.accesss.me:25461 /c
+00:1A:79:40:35:B4
+00:1A:79:40:4F:93
+00:1A:79:40:6F:47
+00:1A:79:40:61:D7
+00:1A:79:40:7F:37
+00:1A:79:40:73:FB
+00:1A:79:40:76:DA
+00:1A:79:40:81:CE
+http://217.182.67.106:8000/c/
+00:1A:79:58:1B:1C
+00:1A:79:0E:1F:4D
+00:1A:79:0D:0F:7C
+00:1A:79:A5:D6:B9
+00:1A:79:0E:6F:61
+00:1A:79:14:5F:E4
+00:1A:79:BE:1F:52
+00:1A:79:E0:3F:8A
+00:1A:79:AB:5F:D2
+00:1A:79:AB:5F:D2
+00:1A:79:45:EE:97
+00:1A:79:04:4F:C0
+http://kamiondzije.xyz:12974/c/
+00:1a:79:00:01:7b
+00:1a:79:00:10:04
+00:1a:79:00:35:aa
+O00:1a:79:00:13:a4
+http://78.mytektv.net:8000/c
+00:1a:79:31:80:69
+http://dpiptvlink.ddns.net:8080/c/
+00:1A:79:4D:6D:60
+00:1A:79:A4:64:25
+00:1A:79:6A:60:39
+00:1A:79:3D:CA:15
+00:1A:79:55:24:D9
+00:1A:79:43:E5:68
+00:1A:79:52:B2:BB
+00:1A:79:60:25:9F
+00:1A:79:A6:A2:14
+00:1A:79:54:98:7D
+00:1A:79:69:4D:1B
+00:1A:79:3B:ED:A9
+00:1A:79:63:AF:CB
+00:1A:79:34:A9:21
+00:1A:79:55:E2:38
+00:1A:79:29:ED:73
+00:1A:79:BB:AE:B1
+00:1A:79:63:A8:51
+00:1A:79:63:67:29
+00:1A:79:1F:29:16
+00:1A:79:55:F2:BA
+00:1A:79:66:13:CD
+00:1A:79:60:6B:36
+http://vip.4kiptv.pro:2095/c/
+00:1A:79:A5:D6:C8
+00:1A:79:AB:90:01
+00:1A:79:AD:98:80
+00:1A:79:52:28:45
+00:1A:79:4C:85:58
+http://stb.first-class-portal.com:25461/c/
+??????????????????????????
+MAC: ??00:1A:79:11:1F:14
+MAC: ??00:1A:79:38:1D:88
+MAC: ??00:1A:79:8B:39:05
+MAC: ??00:1A:79:45:97:F3
+MAC: ??00:1A:79:2A:3E:D7
+MAC: ??00:1A:79:8B:3C:EB
+MAC: ??00:1A:79:6C:C4:2A
+MAC: ??00:1A:79:51:40:55
+MAC: ??00:1A:79:AE:04:E7
+MAC: ??00:1A:79:D8:0F:D1
+MAC: ??00:1A:79:58:C8:E5
+MAC: ??00:1A:79:D0:4F:54
+MAC: ??00:1A:79:11:11:A5
+MAC: ??00:1A:79:36:E7:97
+MAC: ??00:1A:79:B8:22:A2
+MAC: ??00:1A:79:11:11:A5
+MAC: ??00:1A:79:D3:38:33
+MAC: ??00:1A:79:73:8E:A0
+MAC: ??00:1A:79:24:8C:D2
+MAC: ??00:1A:79:14:0F:0F
+MAC: ??00:1A:79:44:06:A4
+MAC: ??00:1A:79:55:79:2C
+MAC: ??00:1A:79:45:8A:C1
+MAC: ??00:1A:79:E9:82:39
+MAC: ??00:1A:79:57:AF:05
+MAC: ??00:1A:79:11:11:A5
+MAC: ??00:1A:79:4F:36:53
+MAC: ??00:1A:79:0E:24:F7
+MAC: ??00:1A:79:BE:B7:CB
+MAC: ??00:1A:79:55:87:B5
+MAC: ??00:1A:79:45:BB:AD
+MAC: ??00:1A:79:55:83:8C
+MAC: ??00:1A:79:55:83:8C
+MAC: ??00:1A:79:56:C0:D9
+MAC: ??00:1A:79:8B:38:6C
+MAC: ??00:1A:79:D2:B9:33
+MAC: ??00:1A:79:18:10:A4
+MAC: ??00:1A:79:78:E2:FA
+MAC: ??00:1A:79:C0:12:88
+MAC: ??00:1A:79:92:D3:38
+MAC: ??00:1A:79:D8:01:38
+MAC: ??00:1A:79:CB:DF:72
+MAC: ??00:1A:79:42:D3:2B
+MAC: ??00:1A:79:D2:B9:33
+MAC: ??00:1A:79:4C:12:9D
+MAC: ??00:1A:79:8E:4B:9B
+MAC: ??00:1A:79:0E:25:E8
+MAC: ??00:1A:79:11:1F:2D
+MAC: ??00:1A:79:0E:24:57
+MAC: ??00:1A:79:40:55:FD
+MAC: ??00:1A:79:19:46:9E
+MAC: ??00:1A:79:E9:82:39
+MAC: ??00:1A:79:40:9A:F0
+MAC: ??00:1A:79:4C:F2:F3
+MAC: ??00:1A:79:5A:87:EF
+MAC: ??00:1A:79:DE:34:BD
+MAC: ??00:1A:79:04:A0:4A
+MAC: ??00:1A:79:C4:FD:25
+MAC: ??00:1A:79:5D:07:AD
+MAC: ??00:1A:79:CB:DF:72
+MAC: ??00:1A:79:43:E5:93
+MAC: ??00:1A:79:6B:9E:EE
+MAC: ??00:1A:79:58:C8:E5
+MAC: ??00:1A:79:4F:50:55
+MAC: ??00:1A:79:34:A2:95
+MAC: ??00:1A:79:95:B2:4B
+MAC: ??00:1A:79:95:74:6E
+MAC: ??00:1A:79:79:25:8C
+MAC: ??00:1A:79:D9:FD:97
+MAC: ??00:1A:79:8B:39:05
+MAC: ??00:1A:79:73:88:39
+MAC: ??00:1A:79:A8:33:39
+MAC: ??00:1A:79:56:C0:D9
+MAC: ??00:1A:79:93:4A:0D
+MAC: ??00:1A:79:F7:9F:57
+MAC: ??00:1A:79:4B:43:D8
+MAC: ??00:1A:79:53:71:BC
+MAC: ??00:1A:79:3B:00:74
+MAC: ??00:1A:79:D8:01:38
+MAC: ??00:1A:79:4E:19:6B
+MAC: ??00:1A:79:27:7F:E5
+5:05
+http://magnum-ott.net:80/c/
+MAC: 00:1A:79:AB:95:25
+MAC: 00:1A:79:E4:69:43
+MAC: 00:1A:79:33:50:E9
+MAC: 00:1A:79:3A:70:BD
+MAC: 00:1A:79:29:2D:D0
+MAC: 00:1A:79:AB:95:25
+MAC: 00:1A:79:51:40:65
+MAC: 00:1A:79:D7:F1:A8
+MAC: 00:1A:79:13:D6:38
+MAC: 00:1A:79:31:31:F9
+MAC: 00:1A:79:E4:69:43
+MAC: 00:1A:79:C8:12:80
+MAC: 00:1A:79:91:84:73
+MAC: 00:1A:79:17:A1:6F
+MAC: 00:1A:79:3B:00:FC
+MAC: 00:1A:79:5A:B8:33
+MAC: 00:1A:79:2D:5A:86
+MAC: 00:1A:79:3E:53:E5
+MAC: 00:1A:79:05:63:EE
+MAC: 00:1A:79:89:FE:DA
+MAC: 00:1A:79:3E:53:E5
+MAC: 00:1A:79:91:84:73
+MAC: 00:1A:79:EC:92:DF
+MAC: 00:1A:79:2D:5A:86
+MAC: 00:1A:79:5A:B8:33
+MAC: 00:1A:79:32:58:3C
+MAC: 00:1A:79:38:BA:BA
+MAC: 00:1A:79:62:8D:9F
+5:10
+http://tz.tagtv.pw/stalker_portal/c/index.html
+MAC: 00:1A:79:45:3F:40 x
+MAC: 00:1A:79:6B:66:64 t
+MAC: 00:1A:79:00:07:94 r
+MAC: 00:1A:79:B8:C8:EB e
+MAC: 00:1A:79:00:0F:93 a
+MAC: 00:1A:79:03:A5:53 m
+MAC: 00:1A:79:A1:5F:14 i
+MAC: 00:1A:79:6B:66:64 p
+MAC: 00:1A:79:B8:C8:EB
+MAC: 00:1A:79:5C:26:78
+MAC: 00:1A:79:B8:C8:EB
+MAC: 00:1A:79:00:7A:FB
+MAC: 00:1a:79:36:25:42
+MAC: 00:1A:79:00:0F:93
+5:12
+http://ok2.se:8000/get.php?username=b3a6F1U8acJZKKwdJ&password=222dF1UNNQdVD9F7h&type=m3u — Mac Address: 00:1a:79:07:8f:df – Bitis Tarihi:24.05.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=f4d5F1Us0eAoWG49g&password=a2d5F1UDNiEYFsQuv&type=m3u — Mac Address: 00:1a:79:08:14:40 – Bitis Tarihi:17.06.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=7d9bF1Ui8MeFGcFtJ&password=9073F1Uc17yAvkG7n&type=m3u — Mac Address: 00:1a:79:08:9f:f8 – Bitis Tarihi:21.07.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=9e41F1UpJbkfJkp5k&password=fde8F1UZja7uMgrjQ&type=m3u — Mac Address: 00:1a:79:09:98:aa – Bitis Tarihi:11.06.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=i9hFAb318m&password=iAqw7OdHm4&type=m3u — Mac Address: 00:1a:79:0a:9c:c7 – Bitis Tarihi:29.10.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=39a6F1UjdsLtCM9Gd&password=9f91F1URrlxOLu44w&type=m3u — Mac Address: 00:1a:79:0a:d2:fd – Bitis Tarihi:01.06.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=2bb5F1Uyc37HMMHAB&password=bc7dF1UOgEYEUDPmX&type=m3u — Mac Address: 00:1a:79:0a:ef:5d – Bitis Tarihi:14.06.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=69d6F1UvDxqkgFReT&password=7fa3F1UdXrscllOJu&type=m3u — Mac Address: 00:1a:79:0b:2f:21 – Bitis Tarihi:19.08.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:1
+http://ok2.se:8000/get.php?username=8c56F1UWsdoOFhbFM&password=79e1F1UwBqoCceANj&type=m3u — Mac Address: 00:1a:79:0b:7f:9a – Bitis Tarihi:24.06.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=5875F1U7l0S61ngNz&password=68daF1UrfEQYZmTHJ&type=m3u — Mac Address: 00:1a:79:0b:9f:33 – Bitis Tarihi:30.11.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=a9b0F1UX3heTreZ3a&password=ef61F1UxTmWxpDbMx&type=m3u — Mac Address: 00:1a:79:0b:a3:aa – Bitis Tarihi:31.05.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+5:27
+http://server.watchu.tv:8000/c/
+00:1A:79:49:31:02 June 5, 2020, 9:42
+00:1A:79:C1:9F:2D March 2, 2021,
+00:1A:79:00:B4:05 July 25, 2020,
+5:45
+http://firsthd.in:8000/c/
+00:1A:79:00:31:30
+February 14, 2021, 11:38 am
+00:1A:79:00:31:3E
+February 14, 2021, 11:06 am
+00:1A:79:00:31:22
+February 14, 2021, 11:38 am
+00:1A:79:00:31:24
+February 14, 2021, 11:38 am
+00:1A:79:00:31:C4
+February 14, 2021, 11:38 am
+00:1A:79:00:31:CF
+February 14, 2021, 11:38 am
+00:1A:79:00:31:C5
+February 14, 2021, 11:38 am
+00:1A:79:00:31:D7
+February 7, 2021, 7:11 am
+00:1A:79:00:31:92
+February 7, 2021, 7:11 am
+00:1A:79:00:31:E9
+February 7, 2021, 7:11 am
+00:1A:79:00:31:EB
+February 14, 2021, 11:38 am
+00:1A:79:00:31:E1
+February 7, 2021, 7:11 am
+00:1A:79:00:31:E0
+February 7, 2021, 7:11 am
+00:1A:79:00:32:3D
+February 7, 2021, 7:11 am
+00:1A:79:00:32:44
+00:1A:79:00:32:4D
+February 14, 2021, 11:16 am
+00:1A:79:00:32:3E
+February 14, 2021, 11:06 am
+00:1A:79:00:32:45
+February 7, 2021, 7:11 am
+00:1A:79:00:32:40
+February 14, 2021, 11:06 am
+00:1A:79:00:33:C4
+February 14, 2021, 11:06 am
+00:1A:79:00:33:CD
+February 7, 2021, 7:11 am
+00:1A:79:00:33:C5
+February 14, 2021, 11:06 am
+00:1A:79:00:33:D8
+February 14, 2021, 11:06 am
+00:1A:79:00:33:DF
+February 14, 2021, 11:06 am
+5:53
+http://iptvpro.premium-itv.com:8789/c/
+00:1A:79:01:DB:9A
+00:1a:79:04:53:27
+00:1a:79:04:6f:3b
+00:1a:79:31:FE:F6
+5:55
+http://clinicaoftalmobrasil.com/stalker_portal/c/
+00:1A:79:3F:22:A2
+00:1A:79:3F:E0:17
+00:1A:79:F9:1F:FF
+http://cantseeme.spdemon.com:25461/c/
+00:1A:79:00:00:00
+00:1A:79:00:00:30
+00:1A:79:00:00:56
+00:1A:79:00:00:96
+http://firsthd.in:8000/c/
+00:1A:79:00:31:30
+February 14, 2021, 11:38 am
+00:1A:79:00:31:3E
+February 14, 2021, 11:06 am
+00:1A:79:00:31:22
+February 14, 2021, 11:38 am
+00:1A:79:00:31:24
+February 14, 2021, 11:38 am
+00:1A:79:00:31:C4
+February 14, 2021, 11:38 am
+00:1A:79:00:31:CF
+February 14, 2021, 11:38 am
+00:1A:79:00:31:C5
+February 14, 2021, 11:38 am
+00:1A:79:00:31:D7
+February 7, 2021, 7:11 am
+00:1A:79:00:31:92
+February 7, 2021, 7:11 am
+00:1A:79:00:31:E9
+February 7, 2021, 7:11 am
+00:1A:79:00:31:EB
+February 14, 2021, 11:38 am
+00:1A:79:00:31:E1
+February 7, 2021, 7:11 am
+00:1A:79:00:31:E0
+February 7, 2021, 7:11 am
+00:1A:79:00:32:3D
+February 7, 2021, 7:11 am
+00:1A:79:00:32:44
+00:1A:79:00:32:4D
+February 14, 2021, 11:16 am
+00:1A:79:00:32:3E
+February 14, 2021, 11:06 am
+00:1A:79:00:32:45
+February 7, 2021, 7:11 am
+00:1A:79:00:32:40
+February 14, 2021, 11:06 am
+00:1A:79:00:33:C4
+February 14, 2021, 11:06 am
+00:1A:79:00:33:CD
+February 7, 2021, 7:11 am
+00:1A:79:00:33:C5
+February 14, 2021, 11:06 am
+00:1A:79:00:33:D8
+February 14, 2021, 11:06 am
+00:1A:79:00:33:DF
+February 14, 2021, 11:06 am
+MAC: 00:1A:79:19:46:9E
+MAC: 00:1A:79:E9:82:39
+MAC: 00:1A:79:40:9A:F0
+MAC: 00:1A:79:4C:F2:F3
+MAC: 00:1A:79:5A:87:EF
+MAC: 00:1A:79:DE:34:BD
+MAC: 00:1A:79:04:A0:4A
+MAC: 00:1A:79:C4:FD:25
+MAC: 00:1A:79:5D:07:AD
+MAC: 00:1A:79:CB:DF:72
+MAC: 00:1A:79:43:E5:93
+MAC: 00:1A:79:6B:9E:EE
+MAC: 00:1A:79:58:C8:E5
+MAC: 00:1A:79:4F:50:55
+MAC: 00:1A:79:34:A2:95
+MAC: 00:1A:79:95:B2:4B
+MAC: 00:1A:79:95:74:6E
+MAC: 00:1A:79:79:25:8C
+MAC: 00:1A:79:D9:FD:97
+MAC: 00:1A:79:8B:39:05
+MAC: 00:1A:79:73:88:39
+MAC: 00:1A:79:A8:33:39
+MAC: 00:1A:79:56:C0:D9
+MAC: 00:1A:79:93:4A:0D
+MAC: 00:1A:79:F7:9F:57
+MAC: 00:1A:79:4B:43:D8
+MAC: 00:1A:79:53:71:BC
+MAC: 00:1A:79:3B:00:74
+MAC: 00:1A:79:D8:01:38
+MAC: 00:1A:79:4E:19:6B
+MAC: 00:1A:79:27:7F:E5
+2:43
+http://magnum-ott.net:80/c/
+MAC: 00:1A:79:AB:95:25
+MAC: 00:1A:79:E4:69:43
+MAC: 00:1A:79:33:50:E9
+MAC: 00:1A:79:3A:70:BD
+MAC: 00:1A:79:29:2D:D0
+MAC: 00:1A:79:AB:95:25
+MAC: 00:1A:79:51:40:65
+MAC: 00:1A:79:D7:F1:A8
+MAC: 00:1A:79:13:D6:38
+MAC: 00:1A:79:31:31:F9
+MAC: 00:1A:79:E4:69:43
+MAC: 00:1A:79:C8:12:80
+MAC: 00:1A:79:91:84:73
+MAC: 00:1A:79:17:A1:6F
+MAC: 00:1A:79:3B:00:FC
+MAC: 00:1A:79:5A:B8:33
+MAC: 00:1A:79:2D:5A:86
+MAC: 00:1A:79:3E:53:E5
+MAC: 00:1A:79:05:63:EE
+MAC: 00:1A:79:89:FE:DA
+MAC: 00:1A:79:3E:53:E5
+MAC: 00:1A:79:91:84:73
+MAC: 00:1A:79:EC:92:DF
+MAC: 00:1A:79:2D:5A:86
+MAC: 00:1A:79:5A:B8:33
+MAC: 00:1A:79:32:58:3C
+MAC: 00:1A:79:38:BA:BA
+MAC: 00:1A:79:62:8D:9F
+2:52
+http://tz.tagtv.pw/stalker_portal/c/index.html
+MAC: 00:1A:79:45:3F:40
+MAC: 00:1A:79:6B:66:64
+MAC: 00:1A:79:00:07:94
+MAC: 00:1A:79:B8:C8:EB
+MAC: 00:1A:79:00:0F:93
+MAC: 00:1A:79:03:A5:53
+MAC: 00:1A:79:A1:5F:14
+MAC: 00:1A:79:6B:66:64
+MAC: 00:1A:79:B8:C8:EB
+MAC: 00:1A:79:5C:26:78
+MAC: 00:1A:79:B8:C8:EB
+MAC: 00:1A:79:00:7A:FB
+MAC: 00:1a:79:36:25:42
+MAC: 00:1A:79:00:0F:93
+2:53
+http://ok2.se:8000/get.php?username=b3a6F1U8acJZKKwdJ&password=222dF1UNNQdVD9F7h&type=m3u — Mac Address: 00:1a:79:07:8f:df – Bitis Tarihi:24.05.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=f4d5F1Us0eAoWG49g&password=a2d5F1UDNiEYFsQuv&type=m3u — Mac Address: 00:1a:79:08:14:40 – Bitis Tarihi:17.06.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=7d9bF1Ui8MeFGcFtJ&password=9073F1Uc17yAvkG7n&type=m3u — Mac Address: 00:1a:79:08:9f:f8 – Bitis Tarihi:21.07.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=9e41F1UpJbkfJkp5k&password=fde8F1UZja7uMgrjQ&type=m3u — Mac Address: 00:1a:79:09:98:aa – Bitis Tarihi:11.06.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=i9hFAb318m&password=iAqw7OdHm4&type=m3u — Mac Address: 00:1a:79:0a:9c:c7 – Bitis Tarihi:29.10.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=39a6F1UjdsLtCM9Gd&password=9f91F1URrlxOLu44w&type=m3u — Mac Address: 00:1a:79:0a:d2:fd – Bitis Tarihi:01.06.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=2bb5F1Uyc37HMMHAB&password=bc7dF1UOgEYEUDPmX&type=m3u — Mac Address: 00:1a:79:0a:ef:5d – Bitis Tarihi:14.06.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=69d6F1UvDxqkgFReT&password=7fa3F1UdXrscllOJu&type=m3u — Mac Address: 00:1a:79:0b:2f:21 – Bitis Tarihi:19.08.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:1
+http://ok2.se:8000/get.php?username=8c56F1UWsdoOFhbFM&password=79e1F1UwBqoCceANj&type=m3u — Mac Address: 00:1a:79:0b:7f:9a – Bitis Tarihi:24.06.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=5875F1U7l0S61ngNz&password=68daF1UrfEQYZmTHJ&type=m3u — Mac Address: 00:1a:79:0b:9f:33 – Bitis Tarihi:30.11.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+http://ok2.se:8000/get.php?username=a9b0F1UX3heTreZ3a&password=ef61F1UxTmWxpDbMx&type=m3u — Mac Address: 00:1a:79:0b:a3:aa – Bitis Tarihi:31.05.2020 – Durum:Active – Max.Baglanti:1 – Aktif Baglant:0
+2:59
+http://server.watchu.tv:8000/c/
+00:1A:79:49:31:02 June 5, 2020
+00:1A:79:C1:9F:2D March 2, 2021
+00:1A:79:00:B4:05 July 25, 2020
+3:05
+http://jurgeniptv.ddns.net:8000/c/
+MAC: 00:1A:79:40:65:FD
+MAC: 00:1A:79:42:4F:29
+MAC: 00:1A:79:44:C3:C7
+MAC: 00:1A:79:31:F7:24
+MAC: 00:1A:79:AD:F4:17
+MAC: 00:1A:79:02:35:16
+MAC: 00:1A:79:A1:31:F9
+MAC: 00:1A:79:66:48:51
+MAC: 00:1A:79:40:65:FD
+3:11
+http://ip.cs4ip.com:8000/c/
+MAC 00:1A:79:02:0B:9C
+MAC 00:1A:79:01:FB:8C
+MAC 00:1A:79:CD:1F:8B
+3:20
+http://main3.tvxweb.net:25461/c/
+00:1A:79:80:01:A8
+00:1A:79:80:02:91
+00:1A:79:80:03:40
+00:1A:79:80:04:CB
+00:1A:79:80:05:B0
+00:1A:79:80:06:26
+00:1A:79:80:09:EB
+00:1A:79:80:16:B9
+3:34
+http://fanproj.taajj-iptv.org:8000/c/
+MAC: 00:1A:79:00:00:00
+MAC: 00:1A:79:00:AF:05
+MAC: 00:1A:79:00:20:8C
+MAC: 00:1A:79:2A:6B:42
+MAC: 00:1A:79:52:DD:D5
+MAC: 00:1A:79:2A:3E:D0
+4:13
+http://dpiptvlink.ddns.net:8080/c/
+00:1A:79:54:98:7D
+00:1A:79:69:4D:1B
+00:1A:79:3B:ED:A9
+00:1A:79:63:AF:CB
+00:1A:79:34:A9:21
+00:1A:79:55:E2:38
+00:1A:79:29:ED:73
+00:1A:79:BB:AE:B1
+00:1A:79:63:A8:51
+00:1A:79:63:67:29
+00:1A:79:1F:29:16
+00:1A:79:55:F2:BA
+00:1A:79:66:13:CD
+00:1A:79:60:6B:36
+00:1A:79:5F:DF:7D
+4:33
+http://links.nextiptv.pro:80/get.php?username=mIpVHlPPat&password=8zzeqMPmM2&type=m3u
+http://links.nextiptv.pro:80/get.php?username=GHmIceVOZb&password=fTDIGxTCIs&type=m3u
+http://links.nextiptv.pro:80/get.php?username=nIxxnLnWoF&password=xfItDmWlp6&type=m3u
+http://links.nextiptv.pro:80/get.php?username=uAMvR1mpn3&password=8eWiggfxwO&type=m3u
+http://links.nextiptv.pro:80/get.php?username=c3ZHjOt9ZW&password=jpI3rIczmT&type=m3u
+http://links.nextiptv.pro:80/get.php?username=6YD9piW28b&password=rQG8lxrd6y&type=m3u
+http://links.nextiptv.pro:80/get.php?username=zwxbBmyCfP&password=XxvUCgipGH&type=m3u
+http://links.nextiptv.pro:80/get.php?username=bFRQlflDP0&password=aD26KZwbJq&type=m3u
+http://links.nextiptv.pro:80/get.php?username=nlb1MvHerm&password=GvgfCIGgmV&type=m3u
+http://links.nextiptv.pro:80/get.php?username=uJwdZR548r&password=TMbopyCKtI&type=m3u
+http://links.nextiptv.pro:80/get.php?username=HLwIZwMB31&password=AnQMbhX8Lh&type=m3u
+4:38
+http://links.nextiptv.pro:80/c/
+Mac:00:1A:79:40:80:13
+Mac: 00:1A:79:02:FE:01
+Mac: 00:1A:79:57:2A:AD
+Mac: 00:1A:79:57:2B:0A
+Mac: 00:1A:79:57:13:F0
+Mac: 00:1A:79:57:2C:2E
+Mac: 00:1A:79:57:A9:01
+Mac: 00:1A:79:57:26:E8
+Mac: 00:1A:79:57:C8:1A
+Mac: 00:1A:79:57:2D:35
+Mac: 00:1A:79:41:68:34
+http://dpiptvlink.ddns.net:8080/c/
+00:1A:79:4D:6D:60
+00:1A:79:A4:64:25
+00:1A:79:6A:60:39
+00:1A:79:3D:CA:15
+00:1A:79:55:24:D9
+00:1A:79:43:E5:68
+00:1A:79:52:B2:BB
+00:1A:79:60:25:9F
+00:1A:79:A6:A2:14
+00:1A:79:54:98:7D
+00:1A:79:69:4D:1B
+00:1A:79:3B:ED:A9
+00:1A:79:63:AF:CB
+00:1A:79:34:A9:21
+00:1A:79:55:E2:38
+00:1A:79:29:ED:73
+00:1A:79:BB:AE:B1
+00:1A:79:63:A8:51
+00:1A:79:63:67:29
+00:1A:79:1F:29:16
+00:1A:79:55:F2:BA
+00:1A:79:66:13:CD
+00:1A:79:60:6B:36
+, 10:13
+http://jurgeniptv.ddns.net:8000
+00: 1A: 79: 66: B9: 91
+00: 1A: 79: A2: C3: FF
+00: 1A: 79: 0D: F1: A5
+00: 1A: 79: 55: 96: 06
+00: 1A: 79: 1D: 68: D5
+00: 1A: 79: AB: 92: 68
+00: 1A: 79: 6A: 26: 87
+00: 1A: 79: 8D: EC: 7E
+00: 1A: 79: D2: 47: 4B
+00 1A: 79: 85: EF: 76
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: 5F: DF: 7D
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: 1B: 76: F7
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: 20: F7: C9
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: 5A: A7: A5
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: 4C: 66: 29
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: 53: 9B: 91
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: 6D: 46: D8
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: 55: DE: 06
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: 55: 95: B4
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: 54: E6: C2
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: 0F: 7C: 1F
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: 55: 67: 2E
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: C3: 30: 60
+http://dpiptvlink.ddns.net:8080/c/
+00: 1A: 79: AA: CA:
+http://vip.4kiptv.pro:2095/c/
+00: 1A: 79: A5: D6: C8
+00: 1A: 79: AB: 90: 01
+00: 1A: 79: AD: 98: 80
+00: 1A: 79: 52: 28: 45
+00: 1A: 79: 4C: 85: 58
+http://live.redfhd.com:8000/c/
+00: 1A: 79: 43: 80: AA
+00: 1A: 79: 5A: 29: C8
+00: 1A: 79: D5: 8C : B1
+00: 1A: 79: 51: EE: D2
+00: 1A: 79: 3B: 06: 0B
+00: 1A: 79: 72: F6: 8E
+00: 1A: 79: 85: F4: 50
+00: 1A: 79: 28: 36: 34
+00: 1A: 79: 3E: AC: E0
+00: 1A: 79: 85: E1: 6B
+00: 1A: 79: 09: 7E: 22
+http://4kplus.org:80/c/
+http://4kplus.org:80/c/
+Mac 00: 1A: 79: 00: 0A: 9F
+23 Nisan 2021, 10:16 pm
+M3u http: // 4kplus.org/get.php?username=7rLnoQPdRU&password=9DIUt6VG5n&type=m3u_plus
+http://4kplus.org:80/c/
+http://4kplus.org:80/c/
+Mac 00: 1A: 79: 00: 0A: A3
+28 Agustos 2020, 15:21 pm
+M3u http://4kplus.org/get.php?username=mvXwamOIHx&password=1yA1ZsJaKA&type=m3u_plus
+, 10:56
+00: 1a: 79: 00: 10: 10 |
+URL Ekle = http://digitalhdtv.tech:8000/c/ | url = http://hgpanel.xyz:8080/get.php?username=57nu15iG6q&password=Ilpx5tTofr&type=m3u_plus&output=ts
+00: 1a: 79: 00: 0c: 8d |
+URL Ekle = http://digitalhdtv.tech:8000/c/ | url = http://hgpanel.xyz:8080/get.php?username=rg97gQevB3&password=lbjKLi5Xyf&type=m3u_plus&output=ts
+00: 1a: 79: 00: 0b: cd |
+URL Ekle = http://digitalhdtv.tech:8000/c/ | url = http://hgpanel.xyz:8080/get.php?username=LsKZKKDTPw&password=pGQhjClA9a&type=m3u_plus&output=ts
+00: 1a: 79: 00: 82: c5 | URL Ekle = http://twobrotherss.tk:8000/c/ | url = http://twobrotherss.tk:8000/get.php?username=YAbLBl1ZdV&password=xW9Zv6RPbA&type=m3u_plus&output=ts
+00: 1A: 79: 12: 48: 98 | Portal = tv.banjotv.tv | PASS = 768e86945fa19a21fd062b6e17ce6e40 | KULLANICI = SUBU1924MUM |
+00: 1A: 79: 10: 6c: 69 | Portal = tv.banjotv.tv | PASS = e12367396ff812401a9fc08013804b69 | KULLANICI = Narayan01 |
+00: 1A: 79: 10: 72: 4a | Portal = tv.banjotv.tv | PASS = a4110e138409e8ea605f8cf093f469ec | KULLANICI = MuhammadSabar |
+, 11:02
+| http://satelliteiptv.xyz:8080/get.php?username=al3lzv3dck&password=5lrup71vxe&type=m3u | Active | 10/24/2019 – 10/24/2020 | Max Connections: 1 | 0 Connected | Real Url: mytv.fun | Time Zone: UTC
+| http://satelliteiptv.xyz:8080/get.php?username=60byhcfhou&password=tbyam2spom&type=m3u | Active | 06/19/2019 – 12/21/2021 | Max Connections: 1 | 0 Connected | Real Url: mytv.fun | Time Zone: UTC
+| http://hide1.userportal.live:8080/get.php?username=gRQP491iK8&password=FSfM6TtcA7&type=m3u | Active | 02/19/2020 – 08/20/2020 | Max Connections: 1 | 0 Connected | Real Url: portal.geniptv.com | Time Zone: UTC
+| http://hide1.userportal.live:8080/get.php?username=O1GNSVYgHq&password=53RXRgSHOe&type=m3u | Active | 02/02/2019 – 08/11/2020 | Max Connections: 1 | 0 Connected | Real Url: portal.geniptv.com | Time Zone: UTC
+| http://hide1.userportal.live:8080/get.php?username=jqcLFQ6MRT&password=qRIHDhSorm&type=m3u | Active | 06/13/2019 – 06/13/2020 | Max Connections: 1 | 0 Connected | Real Url: portal.geniptv.com | Time Zone: UTC
+| http://hide1.userportal.live:8080/get.php?username=m5PnsaoyuS&password=7Kb6lCxRy7&type=m3u | Active | 02/06/2019 – 02/08/2021 | Max Connections: 1 | 0 Connected | Real Url: portal.geniptv.com | Time Zone: UTC
+| http://51.159.21.231:2052/get.php?username=sourcemyhdpro2&password=649471534@&type=m3u | Active | Undefined – Unlimited | Max Connections: 0 | 22 Connected | Real Url: iptv8.premium-stv.com | Time Zone: Europe/London
+| http://rtrmsrv22.gq:8080/get.php?username=madson-restream&password=57sfo2ni&type=m3u | Active | 04/24/2020 – 05/23/2020 | Max Connections: 0 | 1960 Connected | Real Url: stream-sky.cf | Time Zone: America/Sao_Paulo
+| http://maxptv.net:8080/get.php?username=jose&password=jose&type=m3u | Active | 10/08/2019 – 10/08/2020 | Max Connections: 1 | 2 Connected | Real Url: srv.maxptv.net | Time Zone: America/Sao_Paulo
+| http://maxptv.net:8080/get.php?username=toto&password=toto&type=m3u | Active | 01/23/2020 – Unlimited | Max Connections: 1 | 1 Connected | Real Url: srv.maxptv.net | Time Zone: America/Sao_Paulo
+| http://tvpro.millenium-ott.com:25443/get.php?username=MAGzzaf4nLGeC&password=oeeR7p3Orf&type=m3u | Active | 03/02/2020 – 09/06/2020 | Max Connections: 1 | 1 Connected | Real Url: vpro.millenium-ott.com | Time Zone: Europe/Athens
+| http://mo-salah.net:8880/get.php?username=eisenberg&password=eisenberg&type=m3u | Active | 11/15/2019 – 09/24/2020 | Max Connections: 1 | 1 Connected | Real Url: mo-salah.net | Time Zone: Europe/London
+| http://tvpro.millenium-ott.com:25443/get.php?username=NDAOYDC3glfXW&password=z3aFiYZsrE&type=m3u | Active | 02/03/2020 – 03/13/2021 | Max Connections: 1 | 1 Connected | Real Url: vpro.millenium-ott.com | Time Zone: Europe/Athens
+| http://mo-salah.net:8880/get.php?username=finnigan&password=finnigan&type=m3u | Active | 03/07/2020 – 03/07/2021 | Max Connections: 1 | 0 Connected | Real Url: mo-salah.net | Time Zone: Europe/London
+| http://tvpro.millenium-ott.com:25443/get.php?username=MAG4d14o5eprn&password=NCpyiTloYu&type=m3u | Active | 05/08/2020 – 05/24/2022 | Max Connections: 1 | 0 Connected | Real Url: vpro.millenium-ott.com | Time Zone: Europe/Athens
+| http://mo-salah.net:8880/get.php?username=garden&password=garden&type=m3u | Active | 04/27/2020 – 05/28/2020 | Max Connections: 2 | 1 Connected | Real Url: mo-salah.net | Time Zone: Europe/London
+| http://mo-salah.net:8880/get.php?username=hicks&password=hicks&type=m3u | Active | 12/20/2019 – 12/20/2020 | Max Connections: 1 | 1 Connected | Real Url: mo-salah.net | Time Zone: Europe/London
+| http://mo-salah.net:8880/get.php?username=kell&password=kell&type=m3u | Active | 11/15/2019 – 09/22/2
+, 11:02
+020 | Max Connections: 1 | 1 Connected | Real Url: mo-salah.net | Time Zone: Europe/London
+| http://tvpro.millenium-ott.com:25443/get.php?username=fPuOTqsOc5&password=VXdyzVfcfL&type=m3u | Active | 02/23/2019 – 04/23/2021 | Max Connections: 1 | 1 Connected | Real Url: vpro.millenium-ott.com | Time Zone: Europe/Athens
+| http://mo-salah.net:8880/get.php?username=kras&password=kras&type=m3u | Active | 03/07/2020 – 03/07/2021 | Max Connections: 1 | 1 Connected | Real Url: mo-salah.net | Time Zone: Europe/London
+| http://185.233.185.213:25443/get.php?username=NDApU7H53NIYt&password=URMyNEtc6g&type=m3u | Active | 12/24/2019 – 05/21/2020 | Max Connections: 1 | 22 Connected | Real Url: vpro.millenium-ott.com | Time Zone: Europe/Athens
+| http://latiniptv.vip:8008/get.php?username=9999&password=9999&type=m3u | Active | 04/23/2020 – 05/23/2020 | Max Connections: 3 | 12 Connected | Real Url: latiniptv.vip | Time Zone: America/Argentina/Buenos_Aires
+| http://tvpro.millenium-ott.com:25443/get.php?username=MAGMfHKZEHylk&password=3KZTjkidIi&type=m3u | Active | 04/01/2020 – 10/07/2020 | Max Connections: 1 | 1 Connected | Real Url: vpro.millenium-ott.com | Time Zone: Europe/Athens
+| http://portal.germanyservers.co:8000/get.php?username=metin&password=metin123&type=m3u | Active | 03/15/2020 – 06/15/2020 | Max Connections: 1 | 1 Connected | Real Url: portal.germanyservers.co | Time Zone: Europe/Paris
+| http://195.181.161.119/get.php?username=k6CFPu0MKu&password=7xk0jQLl3A&type=m3u | Active | 11/19/2019 – 05/20/2020 | Max Connections: 1 | 28 Connected | Real Url: 195.181.161.111 | Time Zone: Europe/Belgrade
+| http://fpro.webvps.de:25443/get.php?username=NDAufz9LWgQ8f&password=RnFVIrK0Or&type=m3u | Active | 12/26/2019 – 09/30/2020 | Max Connections: 1 | 1 Connected | Real Url: vpro.millenium-ott.com | Time Zone: Europe/Athens
+| http://seeyoutv.net:2300/get.php?username=Piranha&password=Piranha&type=m3u | Active | 12/30/2019 – Unlimited | Max Connections: 1 | 1 Connected | Real Url: seeyoutv.net | Time Zone: Europe/Rome
+| http://portal.germanyservers.co:8000/get.php?username=eray&password=eray&type=m3u | Active | 03/05/2020 – 03/05/2021 | Max Connections: 1 | 1 Connected | Real Url: portal.germanyservers.co | Time Zone: Europe/Paris
+| http://ip.tv4all.top:12345/get.php?username=radio&password=radio&type=m3u | Active | 04/23/2019 – Unlimited | Max Connections: 99 | 0 Connected | Real Url: ip.tv4all.top | Time Zone: Europe/Athens
+| http://vip1080.us:8000/get.php?username=Hakan&password=asdfghj&type=m3u | Active | 08/18/2019 – 08/19/2020 | Max Connections: 1 | 939 Connected | Real Url: ip.tvfhd.vip | Time Zone: Europe/Brussels
+| http://tvku.live:8888/get.php?username=restream2&password=restream2&type=m3u | Active | Undefined – Unlimited | Max Connections: 250 | 36 Connected | Real Url: nonton.site | Time Zone: Asia/Jakarta
+| http://185.233.185.217:25443/get.php?username=VPLUCm7jhrpW&password=XqNmn6hlp5&type=m3u | Active | 09/28/2019 – 09/28/2020 | Max Connections: 1 | 1 Connected | Real Url: vpro.millenium-ott.com | Time Zone: Europe/Athens
+| http://world-iptv.net:8080/get.php?username=Adrian&password=Adrian&type=m3u | Active | 09/02/2019 – 09/02/2020 | Max Connections: 1 | 1 Connected | Real Url: mainpanel01.club | Time Zone: Europe/Amsterdam
+| http://iptv8.premium-stv.com:2052/get.php?username=SPORTPORTpro1&password=vgadJThhsjdfw33&type=m3u | Active | Undefined – Unlimited | Max Connections: 0 | 86 Connected | Real Url: iptv8.premium-stv.com | Time Zone: Europe/London
+| http://62.210.139.197:25461/get.php?username=test&password=test&type=m3u | Active | 10/27/2018 – Unlimited | Max Connections: 10 | 10 Connected | Real Url: www.vodkom.com | Time
+, 11:02
+Zone: Africa/Casablanca
+| http://iptv8.premium-stv.com:2052/get.php?username=SOURCEUSAPRO1d&password=687616d9712@&type=m3u | Active | Undefined – Unlimited | Max Connections: 0 | 229 Connected | Real Url: iptv8.premium-stv.com | Time Zone: Europe/London
+| http://163.172.39.215:25461/get.php?username=line&password=C4@!a3a1@!w72A&type=m3u | Active | 10/24/2019 – Unlimited | Max Connections: 0 | 1348 Connected | Real Url: 163.172.39.215 | Time Zone: Europe/Stockholm
+, 12:32
+http://firsthd.in:8000/c/
+00:1A:79:00:30:B8 February 14, 2021, 11:06 am
+00:1A:79:00:30:8D February 14, 2021, 11:38 am
+00:1A:79:00:30:83 February 14, 2021, 11:06 am
+00:1A:79:00:30:7A February 7, 2021, 7:11 am
+00:1A:79:00:30:86 February 7, 2021, 7:11 am
+00:1A:79:00:30:85 February 14, 2021, 11:38 am
+00:1A:79:00:30:76 February 7, 2021, 7:11 am
+00:1A:79:00:30:87 February 14, 2021, 11:06 am
+00:1A:79:00:30:84 February 14, 2021, 11:06 am
+00:1A:79:00:30:6A February 14, 2021, 11:16 am
+00:1A:79:00:30:82 February 14, 2021, 11:06 am
+00:1A:79:00:30:79 February 7, 2021, 7:11 am
+00:1A:79:00:1C:DF February 16, 2021, 6:57 pm
+00:1A:79:00:25:DF January 29, 2021, 9:57 pm
+00:1A:79:00:2A:DA February 2, 2023, 12:06 pm
+00:1A:79:00:2B:AD March 18, 2021, 8:32 pm
+00:1A:79:00:35:28 February 7, 2021, 7:11 am
+00:1A:79:00:35:72 February 7, 2021, 7:11 am
+00:1A:79:00:35:7E February 14, 2021, 11:38 am
+00:1A:79:00:35:8B September 20, 2020, 5:55 pm
+00:1A:79:00:35:75 February 7, 2021, 7:11 am
+00:1A:79:00:35:88 October 17, 2020, 4:33 pm
+00:1A:79:00:35:9E February 14, 2021, 11:38 am
+00:1A:79:00:35:EC February 7, 2021, 7:11 am
+00:1A:79:00:35:D3 February 14, 2021, 11:38 am
+00:1A:79:00:35:D5 February 14, 2021, 11:38 am
+00:1A:79:21:02:1E April 8, 2021, 12:11 am
+00:1A:79:21:02:4B September 26, 2020, 2:00 am
+00:1A:79:21:02:5C July 14, 2021, 11:48 pm
+00:1A:79:21:02:4E October 13, 2020, 12:00 am
+00:1A:79:00:0D:4E May 16, 2021, 11:54 am
+00:1A:79:00:08:18 September 4, 2020, 2:17 pm
+00:1A:79:00:06:43 May 14, 2021, 4:20 pm
+http://s1.mekon.in:8880/stalker_portal/c/
+:00:1A:79:23:A9:C7
+http://badaaaa.com:2086/c/
+00:1A:79:31:CE:F5
+00:1A:79:31:ED:0B
+00:1A:79:31:EC:80
+00:1A:79:32:22:E0
+00:1A:79:32:23:7B
+00:1A:79:32:33:69
+00:1A:79:33:5E:2A
+http://123iptv.nl:88/c/
+{” “:”00:1A:79:43:5A:30?,”phone”:”May 24, 2021, 11:33 am”
+{” “:”00:1A:79:43:9C:D0?,”phone”:”May 25, 2021, 1:24 pm”
+{” “:”00:1A:79:43:9A:00?,”phone”:”June 27, 2021, 12:45 pm”
+{” “:”00:1A:79:43:31:DB”,”phone”:”January 2, 2021, 7:40 pm”
+{” “:”00:1A:79:43:5A:30?,”phone”:”May 24, 2021, 11:33 am”
+{” “:”00:1A:79:43:9C:D0?,”phone”:”May 25, 2021, 1:24 pm”
+{” “:”00:1A:79:43:31:DB”,”phone”:”January 2, 2021, 7:40 pm”
+{” “:”00:1A:79:43:67:DD”,”phone”:”August 3, 2020, 4:34 pm”
+{” “:”00:1A:79:43:5A:1E”,”phone”:”January 13, 2021, 9:38 am”
+{” “:”00:1A:79:43:31:DB”,”phone”:”January 2, 2021, 7:40 pm”
+{” “:”00:1A:79:43:CD:02?,”phone”:”September 23, 2020, 3:42 pm”
+{” “:”00:1A:79:43:67:DD”,”phone”:”August 3, 2020, 4:34 pm”
+{” “:”00:1A:79:43:33:32?,”phone”:”July 7, 2021, 4:26 pm”
+{” “:”00:1A:79:43:DF:A3?,”phone”:”April 14, 2021, 8:15 pm”
+{” “:”00:1A:79:43:31:AD”,”phone”:”July 25, 2020, 3:11 pm”
+{” “:”00:1A:79:43:9A:00?,”phone”:”June 27, 2021, 12:45 pm”
+“:”00:1A:79:43:33:32?,”phone”:”July
+, 12:32
+7, 2021, 4:26 pm”
+{” “:”00:1A:79:43:67:DD”,”phone”:”August 3, 2020, 4:34 pm”
+{” “:”00:1A:79:43:31:DB”,”phone”:”January 2, 2021, 7:40 pm”
+{” “:”00:1A:79:43:9C:4E”,”phone”:”July 27, 2020, 5:16 pm”
+{” “:”00:1A:79:43:9A:00?,”phone”:”June 27, 2021, 12:45 pm”
+{” “:”00:1A:79:43:5A:30?,”phone”:”May 24, 2021, 11:33 am”
+{” “:”00:1A:79:43:67:DD”,”phone”:”August 3, 2020, 4:34 pm”
+{” “:”00:1A:79:43:9C:D0?,”phone”:”May 25, 2021, 1:24 pm”
+{” “:”00:1A:79:43:31:DB”,”phone”:”January 2, 2021, 7:40 pm”
+{” “:”00:1A:79:43:66:BC”,”phone”:”August 13, 2021, 8:47 pm”
+{” “:”00:1A:79:43:9A:00?,”phone”:”June 27, 2021, 12:45 pm”
+{” “:”00:1A:79:43:59:72?,”phone”:”October 3, 2020, 1:24 pm”
+{” “:”00:1A:79:43:33:32?,”phone”:”July 7, 2021, 4:26 pm”
+{” “:”00:1A:79:43:9A:00?,”phone”:”June 27, 2021, 12:45 pm”
+{” “:”00:1A:79:43:9C:7F”,”phone”:”March 31, 2021, 5:42 pm”
+{” “:”00:1A:79:43:59:72?,”phone”:”October 3, 2020, 1:24 pm”
+{” “:”00:1A:79:43:9A:00?,”phone”:”June 27, 2021, 12:45
+{” “:”00:1A:79:43:33:32?,”phone”:”July 7, 2021, 4:26 pm”
+{” “:”00:1A:79:43:5A:30?,”phone”:”May 24, 2021, 11:33 am”
+{” “:”00:1A:79:43:33:32?,”phone”:”July 7, 2021, 4:26 pm”
+{” “:”00:1A:79:43:9C:D0?,”phone”:”May 25, 2021, 1:24 pm”
+{” “:”00:1A:79:43:9A:00?,”phone”:”June 27, 2021, 12:45 pm”
+{” “:”00:1A:79:43:31:DB”,”phone”:”January 2, 2021, 7:40 pm”
+{” “:”00:1A:79:43:59:72?,”phone”:”October 3, 2020, 1:24 pm”
+{” “:”00:1A:79:43:31:AD”,”phone”:”July 25, 2020, 3:11 pm”
+{” “:”00:1A:79:43:9A:00?,”phone”:”June 27, 2021, 12:45 pm”
+{” “:”00:1A:79:43:A7:85?,”phone”:”January 30, 2021, 8:13 pm”
+{” “:”00:1A:79:43:5A:30?,”phone”:”May 24, 2021, 11:33 am”
+{” “:”00:1A:79:43:59:72?,”phone”:”October 3, 2020, 1:24 pm”
+{” “:”00:1A:79:43:67:DD”,”phone”:”August 3, 2020, 4:34 pm”
+{” “:”00:1A:79:43:33:32?,”phone”:”July 7, 2021, 4:26 pm”
+{” “:”00:1A:79:43:32:31?,”phone”:”July 10, 2021, 2:30 pm”
+{” “:”00:1A:79:43:31:DB”,”phone”:”January 2, 2021, 7:40 pm”
+http://dna-iptv.com:999/c/
+= 00:1a:79:3A:53:15 Expire Date = September 13, 2020
+= 00:1a:79:6B:04:F7 Expire Date = June 11, 2020
+http://digitalhdtv.tech:8000/c
+00:1a:79:00:10:10
+00:1a:79:00:0c:8d
+00:1a:79:00:0b:cd
+http://twobrotherss.tk:8000/c
+00:1a:79:00:82:c5
+http://dpiptvlink.ddns.net:8080/c/
+00:1A:79:1B:76:F7
+00:1A:79:20:F7:C9
+00:1A:79:5A:A7:A5
+00:1A:79:4C:66:29
+00:1A:79:53:9B:91
+00:1A:79:6D:46:D8
+00:1A:79:55:DE:06
+00:1A:79:55:95:B4
+00:1A:79:54:E6:C2
+00:1A:79:0F:7C:1F
+00:1A:79:55:67:2E
+00:1A:79:C3:30:60
+00:1A:79:AA:CA:DA
+http://happy-tv.live/c/
+00:1a:79:41:75:36 | EXP = October 22, 2020
+00:1a:79:4c:d4:a6 | EXP = December 5, 2020
+00:1a:79:f1:01:66 | EXP = November 3, 2020
+http://pro.smartgotv.com:8005/c
+00:1A:79:11:03:e4
+http://voodoo.dynsite.tm:88/stalker_portal/c
+00:1a:79:00:2c:aa | = 24ce793f01fc7a40d5905b283dbbe1d3 | USER = trina2116@rqk
+00:1a:79:00:2f:28 | = fe804b39899ec5ed0a6e54c0e4ef43b9 | USER = Steve96x@qgb
+00:1a:79:00:30:75 | = b935c0dbff9f469c311ae23227328cd0 | USER = rad550220@fyb
+00:1a:79:00:32:6e | = 651b2aa4d50a09b2c3d29cc3c92de330 | USER = 91607573marcel@983
+00:1a:79:00:33:03 | e27c58fd46990ac7e3ba3df050d360df | USER = Ranpreet@hqy
+00:1a:79:00:39:3d | = a505b1aeb94c6a93c5062a56e3dff0c0 | USER = red1788@z9j
+00:1a:79:00:38:b3 | = b693f86e869c69d8803664b39c8c923c | USER = bluestackraf
+00:1a:79:00:39:69 | = c19e1b7bd7ec07e464e8bc385f6e1721 | USER = PedroAlmeida@c2q
+00:1a:79:00:3b:32 | = ffeb3bb953c18d1f4415fce0251f4365 | USER = Bigmike@rfc
+00:1a:79:00:3b:64 | = 0e3b3533c388fceb2e2aff8aea9a2a76 | USER = Davedbranco@v37
+00:1a:79:00:3b:92 | = 8f833b58c00947bd78bf17edb9da4564 | USER = ShamalMustafa@z9g
+00:1a:79:00:3b:e9 | = 8d1d422f362fbb3166ad59eafafca665 | USER = 300s3be9@6j4
+00:1a:79:00:3b:bc | = 502574241c7917b994a470c31837ef6e | USER = Aqeel@zu5
+00:1a:79:00:3c:3d | = d486802e2612e1e942de37bc7904de52 | USER = TariqHaseebmag300@gma
+00:1a:79:00:3c:3b | = c3fdff7e5a0ab8a5ad94f558bc67f8e7 | USER = -qUN4.Satyya-FWigosj0-cellstore2
+00:1a:79:00:3b:f7 | = c1e740920b37e69304f7751cc9b0c435 | USER = Pong@4rx
+00:1a:79:00:3c:68 | = 191aa5ed44ddc02a4126302db6e091d6 | USER = SukhJiwen@st2
+00:1a:79:00:3c:11 | = 230cc8774a6a7f1d4570a0671e5e7d6a | USER = Pong@zup
+http://magnum-ott.net:80/c/
+00:1A:79:AB:95:25
+00:1A:79:E4:69:43
+00:1A:79:33:50:E9
+00:1A:79:3A:70:BD
+00:1A:79:29:2D:D0
+00:1A:79:AB:95:25
+00:1A:79:51:40:65
+00:1A:79:D7:F1:A8
+00:1A:79:13:D6:38
+00:1A:79:31:31:F9
+00:1A:79:E4:69:43
+00:1A:79:C8:12:80
+00:1A:79:91:84:73
+00:1A:79:17:A1:6F
+00:1A:79:3B:00:FC
+00:1A:79:5A:B8:33
+00:1A:79:2D:5A:86
+00:1A:79:3E:53:E5
+00:1A:79:05:63:EE
+00:1A:79:89:FE:DA
+00:1A:79:3E:53:E5
+, 2:29
+Code 1 ??
+URL: http://194.88.107.19:8080
+username: madson-restream
+Password: 57sfo2ni
+________?¦?________
+?? Code 2 ??
+URL: http://panel.restpremium.cf:8080
+username: serverbr
+Password: 0392332904
+________?¦?________
+?? Code 3 ??
+URL: http://185.165.242.48:8080
+username: O7u6xyKdrv
+Password: alwmCmjtsF
+________?¦?________
+?? Code 4 ??
+URL: http://latiniptv.vip:8008
+username: 9999
+Password: 9999
+________?¦?________
+?? Code 5 ??
+URL: http://xtream.servers.web.tr:8888
+username: JXNkpEzUy3
+Password: o0KtnuZone
+________?¦?________
+?? Code 6 ??
+URL: http://p2prime.xyz:80
+username: fabricio
+Password: fabricio
+________?¦?________
+?? Code 7 ??
+URL: http://fpro.webvps.de:25443
+username: NDAufz9LWgQ8f
+Password: RnFVIrK0Or
+________?¦?________
+?? Code 8 ??
+URL: http://195.181.161.119:80
+username: k6CFPu0MKu
+Password: 7xk0jQLl3A
+________?¦?________
+?? Code 9 ??
+URL: http://vip1080.us:8000
+username: Hakan
+Password: asdfghj
+________?¦?________
+?? Code 10 ??
+URL: http://seeyoutv.net:2300
+username: Piranha
+Password: Piranha
+________?¦?________
+?? Code 11 ??
+URL: http://148.251.14.177:82
+username: smash
+Password: smash
+________?¦?________
+?? Code 12 ??
+URL: http://190.115.18.192:8000
+username: Hakan
+Password: asdfghj
+________?¦?________
+?? Code 13 ??
+URL: http://a.srvbr.me:8880
+username: f10050
+Password: f10050
+, 2:29
+http://194.88.107.19:8080/get.php?username=madson-restream&password=57sfo2ni&type=m3u
+http://panel.restpremium.cf:8080/get.php?username=serverbr&password=0392332904&type=m3u
+http://185.165.242.48:8080/get.php?username=O7u6xyKdrv&password=alwmCmjtsF&type=m3u
+http://latiniptv.vip:8008/get.php?username=9999&password=9999&type=m3u
+http://xtream.servers.web.tr:8888/get.php?username=JXNkpEzUy3&password=o0KtnuZone&type=m3u
+http://p2prime.xyz:80/get.php?username=fabricio&password=fabricio&type=m3u
+http://fpro.webvps.de:25443/get.php?username=NDAufz9LWgQ8f&password=RnFVIrK0Or&type=m3u
+http://195.181.161.119/get.php?username=k6CFPu0MKu&password=7xk0jQLl3A&type=m3u
+https://flylinks.net/iptv-active-code-daily-update-new-servers-12-may-2020/
+http://seeyoutv.net:2300/get.php?username=Piranha&password=Piranha&type=m3u
+http://148.251.14.177:82/get.php?username=smash&password=smash&type=m3u
+http://vip1080.us:8000/get.php?username=Hakan&password=asdfghj&type=m3u
+http://62.210.139.197:25461/get.php?username=test&password=test&type=m3u
+, 6:06
+5VUCNAzj&password=FE2zUP2uYo&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:46:B5:E6 | = = http://www.pandar.tv:25461/c/ | Expire Date = June 15, 2020, 9:02 am | = 00:1A:79:46:B5:E6 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=ZkNHwrWJo3&password=jZMEz3loQK&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:40:95:CF | = = http://www.pandar.tv:25461/c/ | Expire Date = March 27, 2021, 12:02 pm | = 00:1A:79:40:95:CF | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=cG9kYFOXQRvyZg6&password=ZP0ZqHqMy9&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:DD:BE:2C | = = http://www.pandar.tv:25461/c/ | Expire Date = March 14, 2021, 10:01 am | = 00:1A:79:DD:BE:2C | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02023782331538&password=zLbKVHe6RJ&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:83:52:62 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 15, 2020, 11:54 am | = 00:1A:79:83:52:62 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG3863798089&password=IjLfmMJ0gk&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:5C:E8:35 | = = http://www.pandar.tv:25461/c/ | Expire Date = December 19, 2020, 2:56 pm | = 00:1A:79:5C:E8:35 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG8620987903&password=ppiyTATD6Q&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:7E:D7:CA | = = http://www.pandar.tv:25461/c/ | Expire Date = June 16, 2020, 12:11 pm | = 00:1A:79:7E:D7:CA | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=TuHowOP4mu&password=NWhjMgKski&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:31:61:29 | = = http://www.pandar.tv:25461/c/ | Expire Date = February 28, 2021, 6:50 pm | = 00:1A:79:31:61:29 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02472316559570&password=saHyH5lnTo&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:3B:15:FC | = = http://www.pandar.tv:25461/c/ | Expire Date = April 24, 2021, 12:47 pm | = 00:1A:79:3B:15:FC | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02026283788668&password=mW8ripHimL&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:57:57:B1 | = = http://www.pandar.tv:25461/c/ | Expire Date = April 16, 2021, 8:09 pm | = 00:1A:79:57:57:B1 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=ChJwKSEoqTFDxv6&password=HXQ7FymviK&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:4E:B1:17 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 23, 2020, 9:22 pm | = 00:1A:79:4E:B1:17 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=XEYFAYpZhbbczZv&password=JsOvDLsIjI&type=m3u_plus | Active Conn = 0
+, 6:06
+| Max Conn = 1
+00:1A:79:A3:3B:AC | = = http://www.pandar.tv:25461/c/ | Expire Date = April 28, 2021, 11:55 am | = 00:1A:79:A3:3B:AC | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02028065193029&password=wleL77xY6U&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:17:8D:5E | = = http://www.pandar.tv:25461/c/ | Expire Date = October 27, 2020, 8:47 pm | = 00:1A:79:17:8D:5E | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02027292405799&password=k7JXVePWB0&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:49:40:1C | = = http://www.pandar.tv:25461/c/ | Expire Date = July 10, 2020, 2:42 am | = 00:1A:79:49:40:1C | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=JubprVQl0b&password=2mcl
+1/c/ | M3u = http://www.pandar.tv:25461/get.php?username=TNFhAv3DTSKk5L9&password=PABbz7wjra&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:19:DD:09 | = = http://www.pandar.tv:25461/c/ | Expire Date = December 7, 2020, 9:12 am | = 00:1A:79:19:DD:09 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=PeU1d9r0V4m6bJ9&password=tTOvPlw1sd&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:28:24:27 | = = http://www.pandar.tv:25461/c/ | Expire Date = September 23, 2020, 2:14 pm | = 00:1A:79:28:24:27 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02078794935089&password=s5ME1yYDH9&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:64:05:D8 | = = http://www.pandar.tv:25461/c/ | Expire Date = July 26, 2020, 5:11 pm | = 00:1A:79:64:05:D8 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02230212947530&password=QyhoODviVg&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:0D:4D:A6 | = = http://www.pandar.tv:25461/c/ | Expire Date = July 11, 2020, 5:16 pm | = 00:1A:79:0D:4D:A6 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02967849843298&password=BByG8BEbW1&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:1E:3B:52 | = = http://www.pandar.tv:25461/c/ | Expire Date = April 30, 2021, 3:17 am | = 00:1A:79:1E:3B:52 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=Gsp8ciT2rt8HkSY&password=Ek9eSI3PYT&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:01:75:10 | = = http://www.pandar.tv:25461/c/ | Expire Date = June 19, 2020, 6:27 pm | = 00:1A:79:01:75:10 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=kxbFgXatWz&password=Ij68hjuvpS&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:CE:1E:AD | = = http://www.pandar.tv:25461/c/ | Expire Date = June 18, 2020, 1:08 pm | = 00:1A:79:CE:1E:AD | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=025103479225&passwo
+, 6:06
+rd=xObOw9bMJw&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:58:AE:89 | = = http://www.pandar.tv:25461/c/ | Expire Date = March 8, 2021, 4:45 pm | = 00:1A:79:58:AE:89 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02022999391337&password=jIkJZnlTxT&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:4C:1D:59 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 15, 2020, 5:53 am | = 00:1A:79:4C:1D:59 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=vhzqspGxblmLZCP&password=UCumLpzvKJ&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:C3:9F:17 | = = http://www.pandar.tv:25461/c/ | Expire Date = March 9, 2021, 12:43 pm | = 00:1A:79:C3:9F:17 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=023816636533&password=8Q5VVSR0oq&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:21:DE:D3 | = = http://www.pandar.tv:25461/c/ | Expire Date = December 19, 2020, 3:59 pm | = 00:1A:79:21:DE:D3 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG0243150754&password=IxEFIUKoyw&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:1B:E7:1B | = = http://www.pandar.tv:25461/c/ | Expire Date = September 26, 2020, 7:40 pm | = 00:1A:79:1B:E7:1B | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02027332297155&password=368WKpYUai&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:46:5E:8D | = = http://www.pandar.tv:25461/c/ | Expire Date = December 3, 2020, 3:01 am | = 00:1A:79:46:5E:8D | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=NeJIBkZYBgVjtvu&password=uANZngeG20&type=m3u_plus
+00:1A:79:72:F3:B3 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 14, 2020, 7:27 pm | = 00:1A:79:72:F3:B3 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=82000275905431&password=SJewncycoG&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:4C:DC:C5 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 11, 2020, 9:09 am | = 00:1A:79:4C:DC:C5 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=4UnrrE3M4Q&password=jyIS4V085e&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:54:FC:CF | = = http://www.pandar.tv:25461/c/ | Expire Date = July 19, 2020, 8:36 am | = 00:1A:79:54:FC:CF | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=TXecM4qRNb&password=QQIJsQvHdc&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:30:68:B8 | = = http://www.pandar.tv:25461/c/ | Expire Date = February 2, 2021, 7:42 am | = 00:1A:79:30:68:B8 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=tgr7NmslSjdhZv2&password=jNj66HDWvN&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:07:90:BA | = http://www.pandar.tv:25461/c/ | Expire Date = December 22, 2020, 5:57 pm | = 00:1A:79:07:90:BA | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=022746837491&password=iIQDQPrz0C&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:0E:17:10 | = = http://www.pandar.tv:25461/c/ | Expire Date = December 8, 2020, 5:27 pm | = 00:1A:79:0E:17:10 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=023800662350&password=sl0vHG4dJC&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:7B:E4:C4 | = = http://www.pandar.tv:25461/c/ | Expire Date = January 11, 2021, 10:40 am | = 00:1A:79:7B:E4:C4 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=cbZViiZ5DPVvORZ&password=xQHAKndT9b&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:64:D6:D6 | = = http://www.pandar.tv:25461/c/ | Expire Date = August 19, 2020, 10:00 am | = 00:1A:79:64:D6:D6 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=frIe5MjgMA&password=uFREBxz3jT&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:51:7B:7E | = = http://www.pandar.tv:25461/c/ | Expire Date = December 1, 2020, 5:49 pm | = 00:1A:79:51:7B:7E | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02022537054405&password=WW2AzvnUAs&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:40:66:EC | = = http://www.pandar.tv:25461/c/ | Expire Date = December 4, 2020, 4:12 am | = 00:1A:79:40:66:EC | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=023026014849&password=A4xSl1mU84&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:3C:7E:8D | = = http://www.pandar.tv:25461/c/ | Expire Date = June 16, 2020, 7:06 am | = 00:1A:79:3C:7E:8D | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=026109131973&password=hXrgfOJzxk&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:58:A9:03 | = = http://www.pandar.tv:25461/c/ | Expire Date = November 5, 2020, 4:09 pm | = 00:1A:79:58:A9:03 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02026336606144&password=z98ITwlkLJ&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:43:D6:98 | = = http://www.pandar.tv:25461/c/ | Expire Date = March 4, 2021, 3:48 pm | = 00:1A:79:43:D6:98 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=0v0aKtfCYyIbodg&password=9Lk0iqpjtV&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:2E:C1:A0 | = = http://www.pandar.tv:25461/c/ | Expire Date = September 23, 2020, 12:33 pm | = 00:1A:79:2E:C1:A0 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=0621774682&password=uiRX1V2g83&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:A4:6F:7A | = = http://www.pandar.tv:25461/c/ | Expire D
+, 6:06
+ate = September 6, 2020, 10:54 am | = 00:1A:79:A4:6F:7A | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG1009007557&password=xgp3YTzPee&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:4F:E2:27 | = = http://www.pandar.tv:25461/c/ | Expire Date = June 9, 2020, 11:42 am | = 00:1A:79:4F:E2:27 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=IGoEBVoTTbZZrec&password=zYOB9gZ5lA&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:B4:AB:E4 | = = http://www.pandar.tv:25461/c/ | Expire Date = December 19, 2020, 9:02 am | = 00:1A:79:B4:AB:E4 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02438682803250&password=3bR432JqVa&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:3A:F8:CC | = = http://www.pandar.tv:25461/c/ | Expire Date = February 15, 2021, 4:16 pm | = 00:1A:79:3A:F8:CC | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02951136717260&password=GlRzWMsOI0&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:D4:3B:82 | = = http://www.pandar.tv:25461/c/ | Expire Date = April 15, 2021, 3:12 pm | = 00:1A:79:D4:3B:82 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02023787497154&password=x0yp6hli1N&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:90:78:EB | = = http://www.pandar.tv:25461/c/ | Expire Date = September 9, 2020, 8:43 pm | = 00:1A:79:90:78:EB | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG7187592939&password=mxH3AD0eCO&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:38:F0:7A | = = http://www.pandar.tv:25461/c/ | Expire Date = November 6, 2020, 2:30 am | = 00:1A:79:38:F0:7A | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=022249737251&password=gsTcQJ9dTx&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:5F:E1:22 | = = http://www.pandar.tv:25461/c/ | Expire Date = June 3, 2020, 9:23 pm | = 00:1A:79:5F:E1:22 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=lwcKaNlSs4cH3oB&password=z3npBRCBQC&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:5A:18:62 | = = http://www.pandar.tv:25461/c/ | Expire Date = December 24, 2020, 3:21 pm | = 00:1A:79:5A:18:62 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG8341902129&password=GXxjhZ8giW&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:54:26:F2 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 21, 2020, 5:10 pm | = 00:1A:79:54:26:F2 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=1242710699&password=X5PIncYRwX&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:60:6D:EA | = = http://www.pandar.tv:25461/c/ | Expire Date = November 24, 2020, 7:27 am | @portalg
+, 6:06
+rup = 00:1A:79:60:6D:EA | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=QUSpDsyop1nvh4j&password=Ps5ibqibm6&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:5F:EE:BE | = = http://www.pandar.tv:25461/c/ | Expire Date = December 13, 2020, 10:12 am | = 00:1A:79:5F:EE:BE | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=IRQeTjLCHMwSrgl&password=Si184bleEA&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:60:60:36 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 30, 2020, 12:52 pm | = 00:1A:79:60:60:36 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=RbCEFJutroh2iGK&password=c r2LKWs&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:3E:09:5C | = = http://www.pandar.tv:25461/c/ | Expire Date = November 16, 2020, 1:37 am | = 00:1A:79:3E:09:5C | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02021694211969&password=xvP2LTUgEx&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:AA:AE:AA | = = http://www.pandar.tv:25461/c/ | Expire Date = April 18, 2021, 1:44 am | = 00:1A:79:AA:AE:AA | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=dc0jRVn5RyJeMef&password=ewTtQRvtMI&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:54:E5:C0 | = = http://www.pandar.tv:25461/c/ | Expire Date = January 13, 2021, 6:39 pm | = 00:1A:79:54:E5:C0 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=5323010093&password=UvPwdHbuVs&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:38:37:80 | = = http://www.pandar.tv:25461/c/ | Expire Date = November 29, 2020, 7:51 am | = 00:1A:79:38:37:80 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=pnVN9wmUqs&password=8eYAPd6v5h&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:A3:81:D2 | = = http://www.pandar.tv:25461/c/ | Expire Date = July 30, 2020, 1:41 am | = 00:1A:79:A3:81:D2 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=2NchkHwOnssTNHk&password=DoRJTCljbs&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:4D:5F:22 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 2, 2020, 3:13 pm | = 00:1A:79:4D:5F:22 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=bgAfirPvEF&password=eSfTn8EbZO&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:37:1D:C0 | = = http://www.pandar.tv:25461/c/ | Expire Date = December 21, 2020, 6:07 pm | = 00:1A:79:37:1D:C0 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02020378925911&password=kh5E6hPDNF&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:5F:6A:7B | = = http://www.pandar.tv:25461/c/ | Expire Date = August 28, 2020, 3:27 pm | = 00:1A:79:5F:6A:7B | S
+, 6:06
+tbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02567171831081&password=BFyZ2YmXzy&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:62:C7:64 | = = http://www.pandar.tv:25461/c/ | Expire Date = June 15, 2020, 10:40 am | = 00:1A:79:62:C7:64 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=dkuXFQNmLP&password=6e2VAJjdX2&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:0D:79:10 | = = http://www.pandar.tv:25461/c/ | Expire Date = August 18, 2020, 6:11 pm | = 00:1A:79:0D:79:10 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02623728012660&password=ZIG1lkYEat&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:1D:86:0C | = = http://www.pandar.tv:25461/c/ | Expire Date = August 20, 2020, 6:11 pm | = 00:1A:79:1D:86:0C | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02408139399008&password=GMvQjAn5fE&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:2F:77:7D | = = http://www.pandar.tv:25461/c/ | Expire Date = October 7, 2020, 1:41 am | = 00:1A:79:2F:77:7D | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=zloLyIh2si3ZGey&password=xeovwFODcj&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:6D:B4:30 | = = http://www.pandar.tv:25461/c/ | Expire Date = June 19, 2020, 1:36 pm | = 00:1A:79:6D:B4:30 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=U31tnVJ4bRz4Dqv&password=hseqATKoCd&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:53:64:34 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=jip8FwTfZnTIMq4&password=ZEBsqtij22&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:4A:64:75 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 27, 2020, 1:16 pm | = 00:1A:79:4A:64:75 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG2774929146&password=UoMAGcsGB7&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:4D:0C:F5 | = = http://www.pandar.tv:25461/c/ | Expire Date = January 7, 2021, 9:02 am | = 00:1A:79:4D:0C:F5 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=jyxASrMLXNobUlu&password=I3wsB50SaF&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:5A:F2:A4 | = = http://www.pandar.tv:25461/c/ | Expire Date = January 17, 2021, 3:37 pm | = 00:1A:79:5A:F2:A4 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=twkJh4BG2wNGNGw&password=RGQDFzTrcv&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:4C:86:37 | = = http://www.pandar.tv:25461/c/ | Expire Date = July 13, 2020, 9:12 am | = 00:1A:79:4C:86:37 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=GXdfL3NPVb&password=DdnfrxyafL&type=m3u_plus | Active Conn = 0 | Ma
+, 6:06
+x Conn = 1
+00:1A:79:83:91:D0 | = = http://www.pandar.tv:25461/c/ | Expire Date = August 18, 2020, 8:52 pm | = 00:1A:79:83:91:D0 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02022290796581&password=VrO1qVnkaA&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:FB:38:63 | = = http://www.pandar.tv:25461/c/ | Expire Date = December 12, 2020, 11:12 pm | = 00:1A:79:FB:38:63 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=jQcnBx2yvsAEemC&password=iiki1F97KU&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:04:05:0C | = = http://www.pandar.tv:25461/c/ | Expire Date = December 23, 2020, 7:02 pm | = 00:1A:79:04:05:0C | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG1706042923&password=XXBIM9kJTn&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:59:83:8D | = = http://www.pandar.tv:25461/c/ | Expire Date = December 24, 2020, 12:44 pm | = 00:1A:79:59:83:8D | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG7642718208&password=Gk55XBNxRp&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:44:28:1F | = = http://www.pandar.tv:25461/c/ | Expire Date = April 26, 2021, 3:16 pm | = 00:1A:79:44:28:1F | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=eEmXpklrBqZtm9V&password=b80cTeQqYF&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:17:A3:4F | = = http://www.pandar.tv:25461/c/ | Expire Date = October 29, 2020, 4:40 pm | = 00:1A:79:17:A3:4F | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02024112723922&password=dwy79tgW6x&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:3F:3D:34 | = = http://www.pandar.tv:25461/c/ | Expire Date = June 17, 2020, 8:28 am | = 00:1A:79:3F:3D:34 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=Lq0tV4g5lW&password=sJJCaxc2KT&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:46:5F:35 | = = http://www.pandar.tv:25461/c/ | Expire Date = August 28, 2020, 10:16 pm | = 00:1A:79:46:5F:35 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=A2CbEfY6Ns&password=2JUbxoOwOL&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:12:6D:9A | = = http://www.pandar.tv:25461/c/ | Expire Date = February 18, 2021, 2:31 pm | = 00:1A:79:12:6D:9A | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=pJhLkZ1E8PD2hkp&password=BffWUOyjCd&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:8B:80:58 | = = http://www.pandar.tv:25461/c/ | Expire Date = January 19, 2021, 2:16 pm | = 00:1A:79:8B:80:58 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=LPJPYcpSGyBXl7J&password=ZIZ0eO7PYm&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:39:39:35 | = = http://www.pandar.tv:25461/c/ | Expire Date = February 12, 2021, 1:05 pm | = 00:1A:79:39:39:35 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02026760955261&password=0c2t0XXdwZ&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:43:5F:B9 | = = http://www.pandar.tv:25461/c/ | Expire Date = November 21, 2020, 6:22 pm | = 00:1A:79:43:5F:B9 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02228099317497&password=RWPJfxERLZ&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:01:E8:CB | = = http://www.pandar.tv:25461/c/ | Expire Date = April 4, 2021, 5:18 pm | = 00:1A:79:01:E8:CB | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=OPDPAuUmzNo9uaK&password=OUmgRmt4Z8&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:64:0C:AB | = = http://www.pandar.tv:25461/c/ | Expire Date = October 25, 2020, 5:37 pm | = 00:1A:79:64:0C:AB | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG6756631583&password=bYQ6ofqjb2&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:AC:CE:4C | = = http://www.pandar.tv:25461/c/ | Expire Date = August 26, 2020, 8:35 am | = 00:1A:79:AC:CE:4C | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=K6z7I1KVDyCSDuG&password=fHTP3iXKSg&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:B0:94:95 | = = http://www.pandar.tv:25461/c/ | Expire Date = April 1, 2021, 11:40 pm | = 00:1A:79:B0:94:95 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=Eflvenh0ztQoZ8T&password=PqjOQi7P1A&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:F5:E3:15 | = = http://www.pandar.tv:25461/c/ | Expire Date = July 30, 2020, 11:39 am | = 00:1A:79:F5:E3:15 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02020899261708&password=Fq0fWIO9Lt&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:40:38:69 | = = http://www.pandar.tv:25461/c/ | Expire Date = August 7, 2020, 3:32 am | = 00:1A:79:40:38:69 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=BdZ2TDe8vO&password=qgO0BOF624&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:A7:BD:DF | = = http://www.pandar.tv:25461/c/ | Expire Date = July 15, 2020, 6:54 am | = 00:1A:79:A7:BD:DF | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=qnmY9vRkkc&password=ymabXc5Poc&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:A2:A9:DD | = = http://www.pandar.tv:25461/c/ | Expire Date = June 8, 2020, 5:32 am | = 00:1A:79:A2:A9:DD | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=023366332119&password=8qtvJjLOak&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:43:93:4C | = = http://www.pandar.tv:25461/c/ | Expire Date = January 18,
+, 6:06
+2021, 10:39 am | = 00:1A:79:43:93:4C | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02116383001942&password=ODGaxbFfdW&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:53:8F:CB | = = http://www.pandar.tv:25461/c/ | Expire Date = May 18, 2020, 6:50 pm | = 00:1A:79:53:8F:CB | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=G2M45lP3Ra&password=vIAl7A7z2h&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:A9:2C:65 |
+00:1A:79:00:7F:FE | = = http://www.pandar.tv:25461/c/ | Expire Date = June 17, 2020, 7:17 pm | = 00:1A:79:00:7F:FE | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=028736874600&password=R8xNLM9Ze1&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:2F:A8:A2 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 14, 2020, 10:39 am | = 00:1A:79:2F:A8:A2 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02026367824900&password=2qXogmIp35&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:45:66:03 | = = http://www.pandar.tv:25461/c/ | Expire Date = August 17, 2020, 7:36 pm | = 00:1A:79:45:66:03 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=gE70BapDOB&password=7n2O4BL9Vg&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:2D:67:8C | = = http://www.pandar.tv:25461/c/ | Expire Date = May 11, 2021, 5:43 pm | = 00:1A:79:2D:67:8C | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=yD0zttFLT9hGmiC&password=SOSbRHibSN&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:22:22:B7 | = = http://www.pandar.tv:25461/c/ | Expire Date = November 7, 2020, 3:13 pm | = 00:1A:79:22:22:B7 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02622044782858&password=uYJ2aW2xgh&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:D9:FA:57 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 31, 2020, 7:10 pm | = 00:1A:79:D9:FA:57 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=5676960951&password=8LdzWQ9w1L&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:F4:B6:D1 | = = http://www.pandar.tv:25461/c/ | Expire Date = February 2, 2021, 8:27 am | = 00:1A:79:F4:B6:D1 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=029143489107&password=IV4z7Z5XEm&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:E8:2C:4F | = = http://www.pandar.tv:25461/c/ | Expire Date = November 30, 2020, 5:11 pm | = 00:1A:79:E8:2C:4F | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG2401670440&password=bfyPeYFm50&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:25:79:19 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 25, 2020, 4:40 pm | = 00:1
+, 6:06
+A:79:25:79:19 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=AS8luXBZat7NxH7&password=d9i68jjTCj&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:54:54:2E | = = http://www.pandar.tv:25461/c/ | Expire Date = August 22, 2020, 2:58 pm | = 00:1A:79:54:54:2E | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02143775609534&password=JkOPvFka3G&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:3D:13:86 | = = http://www.pandar.tv:25461/c/ | Expire Date = January 14, 2021, 4:25 pm | = 00:1A:79:3D:13:86 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG0367637223&password=OczULhemA9&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:FA:30:62 | = = http://www.pandar.tv:25461/c/ | Expire Date = August 27, 2020, 3:43 pm | = 00:1A:79:FA:30:62 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=VWcEgeMTF3&password=0AMvvr1x4x&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:67:5E:73 | = = http://www.pandar.tv:25461/c/ | Expire Date = June 1, 2020, 5:33 pm | = 00:1A:79:67:5E:73 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=3jnnRY45KfCaKP8&password=9QorJAQqOU&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:53:64:34
+= 00:1A:79:A9:2C:65 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=asucUKzaFkVUAsF&password=DImzoRcTSn&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:10:7D:1C | = = http://www.pandar.tv:25461/c/ | Expire Date = August 3, 2020, 12:17 am | = 00:1A:79:10:7D:1C | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02026100339283&password=fubRoYR5w3&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:F9:4F:2B | = = http://www.pandar.tv:25461/c/ | Expire Date = October 6, 2020, 2:46 pm | = 00:1A:79:F9:4F:2B | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=fLbJwDmamE3DDUY&password=KTTYTuSCu7&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:52:EC:7C | = = http://www.pandar.tv:25461/c/ | Expire Date = June 2, 2020, 6:42 am | = 00:1A:79:52:EC:7C | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=uSoOfZ3fdk&password=G4F5UkiEXv&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:46:2A:BC | = = http://www.pandar.tv:25461/c/ | Expire Date = November 13, 2020, 8:45 am | = 00:1A:79:46:2A:BC | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=027852836783&password=A5Xx3znLbE&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:70:3E:73 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 24, 2020, 1:38 pm | = 00:1A:79:70:3E:73 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=C6wwEyX
+, 6:06
+XqxHffDX&password=JDxxerDVxr&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:0D:D1:32 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 28, 2020, 10:22 am | = 00:1A:79:0D:D1:32 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG4356878201&password=4EsHkJwBC6&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:54:60:8E | = = http://www.pandar.tv:25461/c/ | Expire Date = January 3, 2021, 6:34 am | = 00:1A:79:54:60:8E | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02021927959237&password=3hR2p27tBk&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:0E:56:6A | = = http://www.pandar.tv:25461/c/ | Expire Date = June 7, 2020, 5:06 am | = 00:1A:79:0E:56:6A | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=020967935801&password=H40uK7nWyB&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:0D:A9:51 | = = http://www.pandar.tv:25461/c/ | Expire Date = May 14, 2021, 4:01 pm | = 00:1A:79:0D:A9:51 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=YYwb4DDYZksZKVw&password=R40X1Ti0A6&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:08:85:69 | = = http://www.pandar.tv:25461/c/ | Expire Date = August 8, 2020, 2:44 am | = 00:1A:79:08:85:69 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=crnwpXyBvpCe7Kx&password=hLMsg92jPu&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:DD:B1:53 | = = http://www.pandar.tv:25461/c/ | Expire Date = February 10, 2021, 5:35 pm | = 00:1A:79:DD:B1:53 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=82001212636745&password=yQM10ATgy7&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:B1:E9:0C | = = http://www.pandar.tv:25461/c/ | Expire Date = March 15, 2021, 11:10 am | = 00:1A:79:B1:E9:0C | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02029004091531&password=YHLCbsINYA&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:64:84:DC | = = http://www.pandar.tv:25461/c/ | Expire Date = October 23, 2020, 6:42 pm | = 00:1A:79:64:84:DC | StbEmu = h
+ttp://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=mAmPhGiLFfdR2Vf&password=NNFgpfoDqE&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:05:ED:06 | = = http://www.pandar.tv:25461/c/ | Expire Date = June 11, 2020, 6:44 pm | = 00:1A:79:05:ED:06 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=9I2YsPOctr&password=ha5UnRuyju&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:A5:9A:D4 | = = http://www.pandar.tv:25461/c/ | Expire Date = May 25, 2020, 1:51 pm | = 00:1A:79:A5:9A:D4 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=TVHdUKJ2uJlLvHy&password=Q8rWy4rDuh&type=m3u_plus | Active Conn = 0 | Ma
+, 6:06
+pandar.tv:25461/c/ | Expire Date = May 23, 2020, 2:12 pm | = 00:1A:79:A1:34:C4 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=8wshXD2rvVHCTII&password=E7x0jJgWOl&type=m3u_pl
+us | Active Conn = 0 | Max Conn = 1
+00:1A:79:15:A5:DF | = = http://www.pandar.tv:25461/c/ | Expire Date = July 12, 2020, 5:59 pm | = 00:1A:79:15:A5:DF | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=MAG6765812902&password=PClqcb46Mt&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:57:E2:DA | = = http://www.pandar.tv:25461/c/ | Expire Date = May 23, 2020, 3:24 pm | = 00:1A:79:57:E2:DA | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=JOOHPlL54I&password=2NRnSHE0En&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:5B:58:00 | = = http://www.pandar.tv:25461/c/ | Expire Date = August 25, 2020, 9:08 am | = 00:1A:79:5B:58:00 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=028088801573&password=7Oanam4rof&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:E7:E8:BA | = = http://www.pandar.tv:25461/c/ | Expire Date = August 10, 2020, 1:18 am | = 00:1A:79:E7:E8:BA | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=VnMGDQGRYSzHN8T&password=TBRrSNlpSF&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:4E:B1:19 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 24, 2020, 1:56 am | = 00:1A:79:4E:B1:19 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=pfbyDJwkiCPdxHs&password=fFQug7Qkmw&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:9B:04:02 | = = http://www.pandar.tv:25461/c/ | Expire Date = July 13, 2020, 6:17 am | = 00:1A:79:9B:04:02 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=EHaI2W2JqT&password=kqEG5Z1e34&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:01:A9:1C | = = http://www.pandar.tv:25461/c/ | Expire Date = June 18, 2020, 9:30 pm | = 00:1A:79:01:A9:1C | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=fsLOMnezos9KIrC&password=WZAt0ZTPXJ&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:1A:CB:AA | = = http://www.pandar.tv:25461/c/ | Expire Date = May 14, 2021, 3:24 am | = 00:1A:79:1A:CB:AA | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02025313958635&password=Q6RfiNNOm8&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:4A:D8:56 | = = http://www.pandar.tv:25461/c/ | Expire Date = October 22, 2020, 2:32 pm | = 00:1A:79:4A:D8:56 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02918687829350&password=zdKPcFDCHg&type=m3u_plus | Active Conn = 1 | Max Conn = 1
+00:1A:79:5E:3C:57 | = = http://www.pandar.tv:25461/c/ | Expire Date = December 27, 2020, 3:54 am |
+, 6:06
+= http://ip.bordo1453.be/get.php?username=LJpyFSPZCj&password=LlS9Vk7mvU&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:45:1F
+Bitis Tarihi: 05-01-21
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: LJpyFSPZCj
+Sifre: LlS9Vk7mvU
+M3u = http://ip.bordo1453.be/get.php?username=EGbiWWYnWn&password=AZDgBtnVlm&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:45:30
+Bitis Tarihi: 20-05-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: EGbiWWYnWn
+Sifre: AZDgBtnVlm
+M3u = http://ip.bordo1453.be/get.php?username=FxyqKhxsVw&password=d7ufyufS92&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:45:55
+Bitis Tarihi: 21-01-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: FxyqKhxsVw
+Sifre: d7ufyufS92
+M3u = http://ip.bordo1453.be/get.php?username=rFFqBkBgWM&password=ga3wGK4Vg9&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:45:52
+Bitis Tarihi: 07-12-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: rFFqBkBgWM
+Sifre: ga3wGK4Vg9
+M3u = http://ip.bordo1453.be/get.php?username=Wvr0u1vged&password=IJGww2bSVS&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:45:40
+Bitis Tarihi: 05-01-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: Wvr0u1vged
+Sifre: IJGww2bSVS
+M3u = http://ip.bordo1453.be/get.php?username=huY8HQ8eu2&password=NWpwbNvNPT&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:45:56
+Bitis Tarihi: 29-12-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: huY8HQ8eu2
+Sifre: NWpwbNvNPT
+M3u = http://ip.bordo1453.be/get.php?username=d98oiHyp1w&password=kaSH3zLJzw&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:45:76
+Bitis Tarihi: 02-01-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: d98oiHyp1w
+Sifre: kaSH3zLJzw
+M3u = http://ip.bordo1453.be/get.php?username=U11V3UxsSz&password=7345us8cET&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:45:94
+Bitis Tarihi: 27-12-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: U11V3UxsSz
+Sifre: 7345us8cET
+M3u = http://ip.bordo1453.be/get.php?username=yApg5rdJ5k&password=67csQhrfZU&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:45:6F
+Bitis Tarihi: 03-12-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: yApg5rdJ5k
+Sifre: 67csQhrfZU
+M3u = http://ip.bordo1453.be/get.php?username=iAlBwWJPvX&password=cw9gEgCnJM&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:4E:59
+Bitis Tarihi: 10-01-21
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: iAlBwWJPvX
+Sifre: cw9gEgCnJM
+M3u = http://ip.bordo1453.be/get.php?username=JwWRHY5A6B&password=6wRcDgdiY0&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:4E:A2
+Bitis Tarihi: 08-01-21
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: JwWRHY5A6B
+Sifre: 6wRcDgdiY0
+M3u = http://ip.bordo1453.be/get.php?username=NngzK1wqSr&password=zZczFPyOtd&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:4E:53
+Bitis Tarihi: 08-01-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: NngzK1wqSr
+Sifre: zZczFPyOtd
+M3u G
+, 6:06
+= 00:1A:79:5E:3C:57 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02022603494124&password=G5Y0Qmkqdm&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:4F:85:76 | = = http://www.pandar.tv:25461/c/ | Expire Date = March 31, 2021, 10:10 pm | = 00:1A:79:4F:85:76 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=tcEwrpGw6AcxRGC&password=OuDZxEDjDX&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:63:21:F7 | = = http://www.pandar.tv:25461/c/ | Expire Date = March 24, 2021, 11:06 pm | = 00:1A:79:63:21:F7 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=82002650298826&password=hJMoBo39MD&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:46:65:42 | = = http://www.pandar.tv:25461/c/ | Expire Date = September 15, 2020, 12:46 pm | = 00:1A:79:46:65:42 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=6003785104&password=9TgM5f1iPE&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:C8:BF:CC | = = http://www.pandar.tv:25461/c/ | Expire Date = October 21
+, 2020, 5:40 pm | = 00:1A:79:C8:BF:CC | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=lQvj4GinvjXppEL&password=BJlGDTbOFh&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:5E:2F:C5 | = = http://www.pandar.tv:25461/c/ | Expire Date = June 17, 2020, 4:00 pm | = 00:1A:79:5E:2F:C5 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=5BqboBO4qUyR5PD&password=EzuMrDizez&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+00:1A:79:40:47:52 | = = http://www.pandar.tv:25461/c/ | Expire Date = September 19, 2020, 4:05 pm | = 00:1A:79:40:47:52 | StbEmu = http://www.pandar.tv:25461/c/ | M3u = http://www.pandar.tv:25461/get.php?username=02027857471028&password=Ttc6F53S0v&type=m3u_plus | Active Conn = 0 | Max Conn = 1
+M3u = http://ip.bordo1453.be/get.php?username=DmnyMIdOQ&password=v7HgSNWbx2&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:42:D8
+Bitis Tarihi: 13-10-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: DmnyMIdOQ
+Sifre: v7HgSNWbx2
+M3u = http://ip.bordo1453.be/get.php?username=dWeWs4BE3&password=8hdYTKySsq&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:42:DF
+Bitis Tarihi: 09-10-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: dWeWs4BE3
+Sifre: 8hdYTKySsq
+M3u = http://ip.bordo1453.be/get.php?username=YHTGeovyWG&password=y0236kYFoM&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:45:2A
+Bitis Tarihi: 30-03-21
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: YHTGeovyWG
+Sifre: y0236kYFoM
+M3u = http://ip.bordo1453.be/get.php?username=LXiXayYhy7&password=Sp5wlUGzb9&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:45:0E
+Bitis Tarihi: 04-09-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: LXiXayYhy7
+Sifre: Sp5wlUGzb9
+M3u
+, 6:06
+RAM = http://ip.bordo1453.be/get.php?username=kD0zQbSzux&password=UdmjOvFswe&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:4E:B7
+Bitis Tarihi: 26-12-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: kD0zQbSzux
+Sifre: UdmjOvFswe
+M3u = http://ip.bordo1453.be/get.php?username=6twL1zpOT1&password=mWJi36DBlN&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:4E:D3
+Bitis Tarihi: 10-12-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: 6twL1zpOT1
+Sifre: mWJi36DBlN
+M3u = http://ip.bordo1453.be/get.php?username=E99GMJMBTG&password=GJ4gjoTizA&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:4E:DA
+Bitis Tarihi: 11-01-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: E99GMJMBTG
+Sifre: GJ4gjoTizA
+M3u = http://ip.bordo1453.be/get.php?username=0603339198&password=eser&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:4E:C9
+Bitis Tarihi: 28-08-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: 0603339198
+Sifre: eser
+M3u = http://ip.bordo1453.be/get.php?username=pNXp7RTtAk&password=cNocCb9vkc&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:4E:54
+Bitis Tarihi: 18-12-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: pNXp7RTtAk
+Sifre: cNocCb9vkc
+M3u = http://ip.bordo1453.be/get.php?username=XrSCKKhE69&password=Xqa4iGkxEd&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:4F:9C
+Bitis Tarihi: 07-07-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: XrSCKKhE69
+Sifre: Xqa4iGkxEd
+M3u = http://ip.bordo1453.be/get.php?username=FuLgFoR8hT&password=AG6RhZE6eE&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:4F:9B
+Bitis Tarihi: 09-08-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: FuLgFoR8hT
+Sifre: AG6RhZE6eE
+M3u = http://ip.bordo1453.be/get.php?username=7tPMe355Vp&password=VVzq5QUUJr&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:4F:C2
+Bitis Tarihi: 31-08-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: 7tPMe355Vp
+Sifre: VVzq5QUUJr
+M3u = http://ip.bordo1453.be/get.php?username=e5VjWox7TY95D&password=64n6XqFoIv&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:4E:CD
+Bitis Tarihi: 29-09-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: e5VjWox7TY95D
+Sifre: 64n6XqFoIv
+M3u = http://ip.bordo1453.be/get.php?username=ZpOl6JlP5&password=8brhIswSjW&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:53:9A
+Bitis Tarihi: 30-10-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: ZpOl6JlP5
+Sifre: 8brhIswSjW
+M3u = http://ip.bordo1453.be/get.php?username=nU2NHOwNXt&password=DeHNE0JJ7q&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:53:AC
+Bitis Tarihi: 01-04-21
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: nU2NHOwNXt
+Sifre: DeHNE0JJ7q
+M3u = http://ip.bordo1453.be/get.php?username=9FLRXvx8Al&password=218R1jsVQY&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:53:C2
+Bitis Tarihi: 20-03-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: 9FLRXvx8Al
+Sifre: 218R1jsVQY
+, 6:06
+M3u = http://ip.bordo1453.be/get.php?username=KJmwt7Zq8d&password=CGmyAAuf83&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:53:BD
+Bitis Tarihi: 19-02-21
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: KJmwt7Zq8d
+Sifre: CGmyAAuf83
+M3u = http://ip.bordo1453.be/get.php?username=Gph1awLEXX&password=Uhm6zgANvl&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:53:F1
+Bitis Tarihi: 09-04-21
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: Gph1awLEXX
+Sifre: Uhm6zgANvl
+M3u = http://ip.bordo1453.be/get.php?username=RvmmCn8ldQ&password=RzylgAHho6&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:53:E4
+Bitis Tarihi: 22-02-21
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: RvmmCn8ldQ
+Sifre: RzylgAHho6
+M3u = http://ip.bordo1453.be/get.php?username=IyZvORckQ2hYF0&password=Kr19PT1Ufw&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:53:E0
+Bitis Tarihi: 09-10-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: IyZvORckQ2hYF0
+Sifre: Kr19PT1Ufw
+M3u = http://ip.bordo1453.be/get.php?username=UCu4Qwqjlx&password=ZXsVwdaRM2&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:53:F4
+Bitis Tarihi: 25-04-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: UCu4Qwqjlx
+Sifre: ZXsVwdaRM2
+M3u = http://ip.bordo1453.be/get.php?username=y9enkDizBf&password=i0LwKdon31&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:53:E3
+Bitis Tarihi: 25-12-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: y9enkDizBf
+Sifre: i0LwKdon31
+M3u = http://ip.bordo1453.be/get.php?username=eF3czWXvq&password=QlzJodwjmsp&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:54:3E
+Bitis Tarihi: 12-10-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: eF3czWXvq
+Sifre: QlzJodwjmsp
+M3u = http://ip.bordo1453.be/get.php?username=e45tk6WERJ&password=GBjyOlxrxH&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:53:B1
+Bitis Tarihi: 14-09-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: e45tk6WERJ
+Sifre: GBjyOlxrxH
+M3u = http://ip.bordo1453.be/get.php?username=RHX3TG38Qa&password=CClC4j3kqQ&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:54:4D
+Bitis Tarihi: 25-06-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: RHX3TG38Qa
+Sifre: CClC4j3kqQ
+M3u = http://ip.bordo1453.be/get.php?username=tuqoG1JAWS&password=gUJDxCNqFc&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:55:BE
+Bitis Tarihi: 15-12-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: tuqoG1JAWS
+Sifre: gUJDxCNqFc
+M3u = http://ip.bordo1453.be/get.php?username=12i7dfN849&password=jUmdbRXHX0&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:55:C2
+Bitis Tarihi: 17-12-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: 12i7dfN849
+Sifre: jUmdbRXHX0
+M3u = http://ip.bordo1453.be/get.php?username=l0k4PwRCTx&password=oZkEfpG2wz&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:55:D7
+Bitis Tarihi: 21-10-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: l0k4P
+, 6:06
+wRCTx
+Sifre: oZkEfpG2wz
+M3u = http://ip.bordo1453.be/get.php?username=XiPf2nLihs&password=UleGb1fMIX&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:55:ED
+Bitis Tarihi: 20-01-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: XiPf2nLihs
+Sifre: UleGb1fMIX
+M3u = http://ip.bordo1453.be/get.php?username=GDVY6OSeOL&password=Pm3tXcUmPU&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:55:F2
+Bitis Tarihi: 13-06-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: GDVY6OSeOL
+Sifre: Pm3tXcUmPU
+M3u = http://ip.bordo1453.be/get.php?username=VQYYOJ8ENt&password=ceRiOLEre3&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:55:E2
+Bitis Tarihi: 16-07-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: VQYYOJ8ENt
+Sifre: ceRiOLEre3
+M3u = http://ip.bordo1453.be/get.php?username=N0p3sGmdti&password=5SfwYnNb5F&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:55:B9
+Bitis Tarihi: 31-08-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: N0p3sGmdti
+Sifre: 5SfwYnNb5F
+M3u = http://ip.bordo1453.be/get.php?username=YN6V2dZOp8&password=Jo3EM26vrv&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:58:FF
+Bitis Tarihi: 28-12-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: YN6V2dZOp8
+Sifre: Jo3EM26vrv
+M3u = http://ip.bordo1453.be/get.php?username=YNxLJtUjbw&password=QFYsN9sGSr&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:58:F8
+Bitis Tarihi: 29-12-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: YNxLJtUjbw
+Sifre: QFYsN9sGSr
+M3u = http://ip.bordo1453.be/get.php?username=p4WgnGC24W&password=xdvX6BV7e7&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:58:F4
+Bitis Tarihi: 23-12-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: p4WgnGC24W
+Sifre: xdvX6BV7e7
+M3u = http://ip.bordo1453.be/get.php?username=SFEzZLaJQN&password=6RjoQR8pqZ&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3B:11
+Bitis Tarihi: 25-12-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: SFEzZLaJQN
+Sifre: 6RjoQR8pqZ
+M3u = http://ip.bordo1453.be/get.php?username=mehmet&password=destici55&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:00:3B:46
+Bitis Tarihi: 22-10-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: mehmet
+Sifre: destici55
+M3u = http://ip.bordo1453.be/get.php?username=jSIIbNNEbJ&password=KVEORyR8CB&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3B:6D
+Bitis Tarihi: 22-12-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: jSIIbNNEbJ
+Sifre: KVEORyR8CB
+M3u = http://ip.bordo1453.be/get.php?username=sevet&password=juoahqYkPx&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:00:3C:74
+Bitis Tarihi: 03-11-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: sevet
+Sifre: juoahqYkPx
+M3u = http://ip.bordo1453.be/get.php?username=deiz&password=cs8Mu60nWI&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:00:3C:9A
+Bitis Tarihi: 31-10-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: deiz
+Sifre:
+, 6:06
+cs8Mu60nWI
+M3u = http://ip.bordo1453.be/get.php?username=VleI72b39I&password=b3N3qbj1lq&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3B:AB
+Bitis Tarihi: 05-02-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: VleI72b39I
+Sifre: b3N3qbj1lq
+M3u = http://ip.bordo1453.be/get.php?username=QAUqVe94rZ&password=TCZDWpzUR8&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3B:B6
+Bitis Tarihi: 19-10-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: QAUqVe94rZ
+Sifre: TCZDWpzUR8
+M3u = http://ip.bordo1453.be/get.php?username=3hgJQ2qVNb0UMpG&password=3cxRHbnWI&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3B:DD
+Bitis Tarihi: 29-09-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: 3hgJQ2qVNb0UMpG
+Sifre: 3cxRHbnWI
+M3u = http://ip.bordo1453.be/get.php?username=NwIyGwSbc9&password=RsNS6UgTNW&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3B:D4
+Bitis Tarihi: 08-03-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: NwIyGwSbc9
+Sifre: RsNS6UgTNW
+M3u = http://ip.bordo1453.be/get.php?username=sMFEzXlDss&password=RIKVSKc02m&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3B:A5
+Bitis Tarihi: 23-12-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: sMFEzXlDss
+Sifre: RIKVSKc02m
+M3u = http://ip.bordo1453.be/get.php?username=FnxTt8JF&password=N5n765eoBo&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3B:E4
+Bitis Tarihi: 10-10-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: FnxTt8JF
+Sifre: N5n765eoBo
+M3u = http://ip.bordo1453.be/get.php?username=bKoms1uQ&password=toQA2xjNon&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:00:3D:24
+Bitis Tarihi: 25-09-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: bKoms1uQ
+Sifre: toQA2xjNon
+M3u = http://ip.bordo1453.be/get.php?username=g4vPA75JC3&password=UwumSERSl2&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:00:3D:0D
+Bitis Tarihi: 30-04-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: g4vPA75JC3
+Sifre: UwumSERSl2
+M3u = http://ip.bordo1453.be/get.php?username=mTKGn5PFtQ&password=xRrQvgb1E8&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3C:0E
+Bitis Tarihi: 22-12-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: mTKGn5PFtQ
+Sifre: xRrQvgb1E8
+M3u = http://ip.bordo1453.be/get.php?username=sg624J1u&password=9wBhaIUzS5&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3C:38
+Bitis Tarihi: 28-09-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: sg624J1u
+Sifre: 9wBhaIUzS5
+M3u = http://ip.bordo1453.be/get.php?username=JZD4XsRjXZ&password=sNRKfCBTP3&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3C:13
+Bitis Tarihi: 12-02-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: JZD4XsRjXZ
+Sifre: sNRKfCBTP3
+M3u = http://ip.bordo1453.be/get.php?username=IzKy8LBxHeGSEw7&password=6HbPpy0B0R&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:00:3D:35
+Bitis Tarihi: 28-09-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi
+, 6:06
+: IzKy8LBxHeGSEw7
+Sifre: 6HbPpy0B0R
+M3u = http://ip.bordo1453.be/get.php?username=oPqRYiSIc&password=LW4mOeyAlf&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3C:1C
+Bitis Tarihi: 04-11-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: oPqRYiSIc
+Sifre: LW4mOeyAlf
+M3u = http://ip.bordo1453.be/get.php?username=oxjUGN8UhX&password=JtYLVl0v8E&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3C:29
+Bitis Tarihi: 25-12-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: oxjUGN8UhX
+Sifre: JtYLVl0v8E
+M3u = http://ip.bordo1453.be/get.php?username=t0iSqp4iur&password=kTJq7LKT1k&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:00:3B:93
+Bitis Tarihi: 18-09-20
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: t0iSqp4iur
+Sifre: kTJq7LKT1k
+M3u = http://ip.bordo1453.be/get.php?username=KF1q06Yw0j&password=qpRgUSr5U8&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3A:C8
+Bitis Tarihi: 22-02-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: KF1q06Yw0j
+Sifre: qpRgUSr5U8
+M3u = http://ip.bordo1453.be/get.php?username=o6iKJru2k3&password=Z0xLo4noZL&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3A:E1
+Bitis Tarihi: 08-03-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: o6iKJru2k3
+Sifre: Z0xLo4noZL
+M3u = http://ip.bordo1453.be/get.php?username=SLakY4ZzjO&password=D2rvgsldJ5&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3A:C3
+Bitis Tarihi: 20-02-21
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: SLakY4ZzjO
+Sifre: D2rvgsldJ5
+M3u = http://ip.bordo1453.be/get.php?username=hh1py0jZ1Q&password=jL1Z175Uop&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3A:E2
+Bitis Tarihi: 18-03-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: hh1py0jZ1Q
+Sifre: jL1Z175Uop
+M3u = http://ip.bordo1453.be/get.php?username=vCOBj3njhG&password=GE8O5ZCfjg&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3A:E6
+Bitis Tarihi: 09-03-21
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: vCOBj3njhG
+Sifre: GE8O5ZCfjg
+M3u = http://ip.bordo1453.be/get.php?username=8a1sF256Vx&password=HPv5MzLIh9&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3A:D4
+Bitis Tarihi: 23-02-21
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: 8a1sF256Vx
+Sifre: HPv5MzLIh9
+M3u = http://ip.bordo1453.be/get.php?username=OlvvdaZVby&password=Ohz18VJSAR&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3A:DE
+Bitis Tarihi: 29-08-20
+Baglanti Sayisi:1 Aktif Baglanti:1
+Kullanici Adi: OlvvdaZVby
+Sifre: Ohz18VJSAR
+M3u = http://ip.bordo1453.be/get.php?username=7v9bYGhJcv&password=MqFn01NNfH&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3A:E3
+Bitis Tarihi: 07-03-21
+Baglanti Sayisi:1 Aktif Baglanti:0
+Kullanici Adi: 7v9bYGhJcv
+Sifre: MqFn01NNfH
+M3u = http://ip.bordo1453.be/get.php?username=WoPTHWOp1a&password=bSh0ldYcod&type=m3u_plus&output=m3u8
+Portal = http://ip.bordo1453.be/c/
+00:1A:79:40:3A:E0
+Bitis Tarihi: 26-02-21
+Baglanti Sayisi:1 Aktif Ba
+, 6:26
+http://abczu.xyz:25461/c/
+00:1A:79:46:71:AA
+00:1A:79:4E:D5:3E
+00:1A:79:10:A5:DF
+00:1A:79:29:52:05
+00:1A:79:F3:2C:43
+00:1A:79:89:7E:52
+00:1A:79:03:E6:08
+00:1A:79:42:FA:FB
+00:1A:79:54:9D:NA
+00:1A:79:07:E0:D1
+00:1A:79:9A:89:X6
+00:1A:79:AA:O6:DF
+00:1A:79:9E:46:57
+00:1A:79:FB:58:75
+00:1A:79:37:38:04
+00:1A:79:31:94:A6
+00:1A:79:69:DC:23
+00:1A:79:2A:DF:E8
+00:1A:79:6B:D0:F8
+00:1A:79:2E:36:AB
+00:1A:79:34:81:17
+00:1A:79:3B:37:A9
+00:1A:79:11:9E:3C
+00:1A:79:9E:0A:6D
+00:1A:79:99:EE:F8
+00:1A:79:B5:BB:2A
+00:1A:79:53:D2:E0
+00:1A:79:22:5E:4F
+00:1A:79:15:73:C8
+00:1A:79:19:78:BE
+00:1A:79:FC:02:65
+00:1A:79:54:47:56
+00:1A:79:1C:2A:B9
+00:1A:79:14:CA:F9
+00:1A:79:4A:E7:C2
+00:1A:79:1D:AD:3F
+00:1A:79:53:D6:0B
+00:1A:79:AA:5F:65
+00:1A:79:4B:22:CD
+00:1A:79:4F:97:31
+00:1A:79:54:A4:38
+00:1A:79:D7:9F:EE
+00:1A:79:9B:92:21
+00:1A:79:B8:AC:A2
+00:1A:79:5E:3C:F3
+00:1A:79:65:6F:0A
+00:1A:79:3B:44:1E
+00:1A:79:5A:47:00
+00:1A:79:11:16:47
+00:1A:79:67:B7:B4
+00:1A:79:1D:AD:3D
+00:1A:79:AD:22:9A
+00:1A:79:29:FB:2B
+00:1A:79:2A:46:3E
+00:1A:79:18:63:0A
+00:1A:79:2B:51:D0
+00:1A:79:42:62:A1
+00:1A:79:3F:2D:24
+00:1A:79:A1:F4:D2
+00:1A:79:43:00:C9
+00:1A:79:27:63:A2
+00:1A:79:56:FF:E3
+00:1A:79:24:94:8D
+, 10:08
+00:1A:79:57:98:53 | mac = 00:1A:79:57:98:53 | VENCE = June 30, 2020, 9:15 pm | m3u = http://trojan-tv.co.uk:8085/get.php?username=QFl73RP7js&password=9aR43s5lnS&type=m3u
+00:1A:79:57:EF:21 | mac = 00:1A:79:57:EF:21 | VENCE = March 2, 2021, 3:19 pm | m3u = http://trojan-tv.co.uk:8085/get.php?username=M5LKZqOEsq&password=0JlAkizStY&type=m3u
+00:1A:79:57:3E:57 | mac = 00:1A:79:57:3E:57 | VENCE = January 15, 2021, 2:37 pm | m3u = http://trojan-tv.co.uk:8085/get.php?username=VhINBC5xVW&password=nfrnE04W7g&type=m3u
+00:1A:79:57:EC:50 | mac = 00:1A:79:57:EC:50 | VENCE = March 18, 2021, 9:44 am | m3u = http://trojan-tv.co.uk:8085/get.php?username=CXDE4qNGJ1&password=XbqyLF4Ubf&type=m3u
+00:1A:79:57:B6:2C | mac = 00:1A:79:57:B6:2C | VENCE = August 21, 2020, 12:50 pm | m3u = http://trojan-tv.co.uk:8085/get.php?username=aOEo2AxGC2&password=yjFpROadMB&type=m3u
+00:1A:79:57:B4:B7 | mac = 00:1A:79:57:B4:B7 | VENCE = July 6, 2020, 6:59 pm | m3u = http://trojan-tv.co.uk:8085/get.php?username=j30A99UK0F&password=GvrLf2fXLd&type=m3u
+00:1A:79:57:40:D6 | mac = 00:1A:79:57:40:D6 | VENCE = September 30, 2020, 7:02 am | m3u = http://trojan-tv.co.uk:8085/get.php?username=paulalucas&password=BeB70O1Epg&type=m3u
+00:1A:79:57:64:8D | mac = 00:1A:79:57:64:8D | VENCE = December 17, 2020, 9:39 am | m3u = http://trojan-tv.co.uk:8085/get.php?username=jsWtj2kRcl&password=la8sEvFQnx&type=m3u
+, 2:17
+http://clientbox.tv:80/get.php?username=Vbk25hSuD7&password=2sz2VCBDmJ&type=m3u_plus »» king-box.club «« . »» MAC: 00:1a:79:40:06:71 «« . »» De: 02-12-2019 Até:
